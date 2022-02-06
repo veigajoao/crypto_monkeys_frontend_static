@@ -5,25 +5,20 @@
 // a. Theme colors
 $primary: #131425;
 $secondary: #85248d;
-$opacity-white: rgba(255, 255, 255, 0.45);
-$field-grey: #0c0d15;
-$field-grey-transparency: rgba(106, 106, 111, 0.5);
-$bet-list-grey: #bebebe;
-$crash-green: #04d47c;
-$lose-red: #ff0000;
+
+$grey-text: #C1C1C1;
+$orange-text: #FF9000;
+$play-button: #111A19;
+
 
 $modal-bg: $primary;
-$input-placeholder-color: $opacity-white;
+$input-placeholder-color: white;
 
 $theme-colors: (
   "primary": $primary,
   "secondary": $secondary,
-  "field-grey": $field-grey,
-  "field-grey-transparency": $field-grey-transparency,
-  "opacity-white": $opacity-white,
-  "crash-green": $crash-green,
-  "bet-list-grey": $bet-list-grey,
-  "lose-red": $lose-red,
+  "grey-text": $grey-text,
+  "orange-text": $orange-text
 );
 
 // b. Standard fonts

@@ -1,0 +1,12 @@
+:root {
+    --navbar-height: 300px;
+}
+
+.nav-heigth {
+    height: var(--navbar-height);
+}
+
+.content-padding {
+    position: relative;
+    top: var(--navbar-height);
+}
