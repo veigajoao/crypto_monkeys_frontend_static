@@ -6,7 +6,7 @@
     height: var(--navbar-height);
 }
 
-.content-padding {
-    position: relative;
-    top: var(--navbar-height);
+.navbar-shrink {
+    background-color: black !important;
+    border-bottom: white 1px solid !important;
 }
