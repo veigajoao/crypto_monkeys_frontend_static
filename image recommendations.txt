@@ -1,0 +1,5 @@
+1. Imagem dos 3 macacos:
+    a. Fazer transição leve para invisível ao fundo
+    b. Adicionar espaço em branco em cima
+
+    
