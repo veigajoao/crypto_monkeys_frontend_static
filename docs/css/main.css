@@ -10,3 +10,10 @@
     background-color: black !important;
     border-bottom: white 1px solid !important;
 }
+
+.carousel-item{
+    height: 100px;
+} 
+.carousel-item img{
+    height: 100px;
+}
