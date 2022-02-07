@@ -11,9 +11,12 @@
     border-bottom: white 1px solid !important;
 }
 
-.carousel-item{
-    height: 100px;
-} 
-.carousel-item img{
-    height: 100px;
-}
+/* @media screen and (max-width: 667px) {
+    body {
+        overflow-x: hidden !important;
+    }
+    .container {
+        max-width: 100% !important;
+        overflow-x: hidden !important;
+    }
+} */
