@@ -11,6 +11,10 @@
     border-bottom: white 1px solid !important;
 }
 
+body {
+    font-family: 'Avenir LT Pro 55 Roman';
+}
+
 /* @media screen and (max-width: 667px) {
     body {
         overflow-x: hidden !important;
