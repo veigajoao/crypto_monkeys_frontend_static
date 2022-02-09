@@ -14,25 +14,3 @@
 body {
     font-family: 'Avenir LT Pro 55 Roman';
 }
-
-.monkeys-picture {
-    height: auto;
-    width: 100%;
-}
-
-@media (min-width: 768px) {
-    .monkeys-picture {
-        height: 100vh;
-        width: auto;
-    }
-}
-
-@media (max-width: 767.98px) {
-    .section-width {
-        width: 100%;
-    }
-}
-
-.section-width {
-    width: 100%;
-}
