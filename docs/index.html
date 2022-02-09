@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        
-
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
@@ -20,7 +18,7 @@
         <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
         <script defer src="js/main.js"></script>
     </head>
-    <body style="background: #000000 no-repeat center center fixed; background-size: cover;">
+    <body class="d-flex flex-column align-items-center" style="background: #000000 no-repeat center center fixed; background-size: cover;">
         <div >
             <!-- Navigation-->
             <nav class="nav-heigth navbar navbar-expand bg-transparent text-uppercase fixed-top" style="--bs-bg-opacity: .8;" id="mainNav">
@@ -39,10 +37,10 @@
             <header class="position-relative" style="width: 100%; background: url('./img/background_jungle_fade.png'); background-size: cover; padding: 0;">
                 <div class="container" style="margin-left: 0; margin-right: 0; margin-bottom: 0; padding-left: 0; padding-right: 0; padding-bottom: 0;">
                     <div class="row gx-0 d-flex">
-                        <div class="col-md-6 col-12 d-flex align-items-end">
+                        <div class="col-md-6 col-12 d-flex align-items-end section-width">
                             <img class="position-relative start-0 bottom-0" style="z-index: 0; height: 100vh;" src="./img/main_monkeys_fade.png" alt="">
                         </div>
-                        <div class="col-md-6 col-12 align-self-center" style="z-index: 1;">
+                        <div class="col-md-6 col-12 align-self-center section-width" style="z-index: 1;">
                             <div class="d-flex justify-content-between align-items-center w-100" style="z-index: 100;">
                                 <div class="d-flex flex-column text-center">
                                     <img class="w-100" src="./img/shiny_logo.png" alt="">
@@ -51,9 +49,9 @@
                                 <div class="d-block mt-5">
                                     <a href="#" class="btn btn-play-button text-orange-text border-white w-30" style="font-family: 'league_spartanbold';">PLAY GAME</a>
                                     <div class="d-flex text-white justify-content-center mt-5">
-                                        <i class="fab fa-discord fa-2x me-4"></i>
-                                        <i class="fab fa-telegram-plane fa-2x me-4"></i>
-                                        <i class="fab fa-twitter fa-2x"></i>
+                                        <a href="https://discord.io/CryptoMonkeys" target="_blank" rel="noopener noreferrer"><i class="fab fa-discord fa-2x me-4"></i></a>
+                                        <a href="https://t.me/cryptomonkeysgame" target="_blank" rel="noopener noreferrer"></a><i class="fab fa-telegram-plane fa-2x me-4"></i></a>
+                                        <a href="https://twitter.com/_CryptoMonkeys" target="_blank" rel="noopener noreferrer"></a><i class="fab fa-twitter fa-2x"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -62,7 +60,7 @@
                 </div>
             </header>
 
-            <section id="description-section" class="position-relative" style="width: 100%;">
+            <section id="description-section" class="" style="width: 100%;">
                 <div class="container">
                     <div class="row mt-5 pt-3 pb-5 mb-3">
 
@@ -87,7 +85,7 @@
 
                             <h3 class="" style="font-family: 'league_spartanbold'; color:   #F8C84A;">COLLECT</h3>
 
-                            <p class="w-70 text-grey-text text-center" style="">
+                            <p class="w-70 text-grey-text text-center">
                                 Our NFTs have historical personalities based
                                 on their own evolutionary chronology, they
                                 are inspired by global trends and creative details
@@ -100,7 +98,7 @@
 
                             <h3 class="" style="font-family: 'league_spartanbold'; color:   #F8C84A;">UPGRADE</h3>
 
-                            <p class="w-70 text-grey-text text-center" style="">
+                            <p class="w-70 text-grey-text text-center">
                                 All monkeys can be evolved to work in upgraded
                                 stations. Store each new reward scores and
                                 improve even more dynamism to your gameplay.
@@ -112,7 +110,7 @@
 
                             <h3 class="" style="font-family: 'league_spartanbold'; color:   #F8C84A;">WORK</h3>
 
-                            <p class="w-70 text-grey-text text-center" style="">
+                            <p class="w-70 text-grey-text text-center">
                                 Each monkey has its IQ measured by evolutionary
                                 attributes and can work according to its intelligence.
                                 Your IQ attributes are based on the evolutionary chronology.
@@ -124,7 +122,7 @@
 
                             <h3 class="" style="font-family: 'league_spartanbold'; color:   #F8C84A;">EARN</h3>
 
-                            <p class="w-70 text-grey-text text-center" style="">
+                            <p class="w-70 text-grey-text text-center">
                                 Get  your monkeys, put them to work in
                                 the right station and receive Bitbananas.
                             </p>
@@ -137,7 +135,7 @@
             </section>
 
             <!-- need to remove fixed width of all elements in carousel to achieve better responsiveness (no x-overflow) -->
-            <section id="chars-section" class="position-relative" style="width: 100%;">
+            <!-- <section id="chars-section" class="position-relative" style="width: 100%;">
                 <div class="d-flex flex-column justify-content-evenly align-items-center p-5 m-5">
 
                     <h3 class="p-1" style="font-family: 'league_spartanbold'; color:   #F8C84A;">MEET THE MONKEYS</h3>
@@ -154,8 +152,8 @@
                                 <img src="./img/cave_monkey.jpeg" class="d-block" style="height: 500px;" alt="...">
                             </div>
                             <div class="carousel-caption d-block">
-                              <h5 class="text-white p-1" style="">Cave monkey <span class="badge bg-grey-text text-black p-1 mb-1">Commom</span></h5>
-                              <p style="">
+                              <h5 class="text-white p-1">Cave monkey <span class="badge bg-grey-text text-black p-1 mb-1">Commom</span></h5>
+                              <p>
                                   Cave mokey is not particulary bright, but what he lacks in brains, he makes do with
                                   brute force and instincts. He can smell bananas from a 2 mile distance.
                               </p>
@@ -166,8 +164,8 @@
                                 <img src="./img/knight_monkey.jpeg" class="d-block" style="height: 500px;" alt="...">
                             </div>
                             <div class="carousel-caption d-block">
-                                <h5 class="text-white p-1" style="">Knight monkey <span class="badge bg-orange-text text-black p-1 mb-1">Rare</span></h5>
-                                <p style="">
+                                <h5 class="text-white p-1" >Knight monkey <span class="badge bg-orange-text text-black p-1 mb-1">Rare</span></h5>
+                                <p>
                                     Evolution made this monkey a true war machine. Knight monkey is stronger, fiercer 
                                     and more athletic than any other monkey. With him by your side there is no way
                                     someone will try to steal your bananas.
@@ -179,8 +177,8 @@
                                 <img src="./img/meta_monkey.jpeg" class="d-block" style="height: 500px;" alt="...">
                             </div>
                             <div class="carousel-caption d-block">
-                                <h5 class="text-white p-1" style="">Meta Monkey <span class="badge bg-secondary text-black p-1 mb-1">Legendary</span></h5>
-                                <p style="">
+                                <h5 class="text-white p-1">Meta Monkey <span class="badge bg-secondary text-black p-1 mb-1">Legendary</span></h5>
+                                <p>
                                     The apex of intelligence and inventiveness, Meta Monkey is no longer bound by the physical
                                     world. He is a brilliant entrepeuneur and can find ways to become a banana millionaire both online
                                     and in real life.
@@ -199,16 +197,16 @@
                     </div>
 
                 </div>
-            </section>
+            </section> -->
 
-            <section id="description-section" class="position-relative mb-5" style="width: 100%; height: 80vh;">
+            <!-- <section id="tokenomics-section" class="position-relative mb-5" style="width: 100%; height: 80vh;">
 
                 <div class="d-flex flex-column align-items-center justify-content-center">
                     <h3 class="" style="font-family: 'league_spartanbold'; color:   #F8C84A; margin-bottom: -20px;">TOKENOMICS</h3>
                     <img class="" style="width: auto; height: 80vh;" src="./img/Tokenomics.png" alt="">
                 </div>
 
-            </section>
+            </section> -->
 
 
             <footer class="text-center text-white">
@@ -242,7 +240,7 @@
                         
                         <a
                         class="btn btn-link btn-floating btn-lg text-white m-1"
-                        href="#!"
+                        href="https://discord.io/CryptoMonkeys" target="_blank" rel="noopener noreferrer"
                         role="button"
                         data-mdb-ripple-color="dark"
                         ><i class="fab fa-discord"></i
@@ -250,7 +248,7 @@
 
                         <a
                         class="btn btn-link btn-floating btn-lg text-white m-1"
-                        href="#!"
+                        href="https://t.me/cryptomonkeysgame" target="_blank" rel="noopener noreferrer"
                         role="button"
                         data-mdb-ripple-color="dark"
                         ><i class="fab fa-telegram-plane"></i
@@ -258,7 +256,7 @@
 
                         <a
                         class="btn btn-link btn-floating btn-lg text-white m-1"
-                        href="#!"
+                        href="https://twitter.com/_CryptoMonkeys" target="_blank" rel="noopener noreferrer"
                         role="button"
                         data-mdb-ripple-color="dark"
                         ><i class="fab fa-twitter"></i
