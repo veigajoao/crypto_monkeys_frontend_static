@@ -49,9 +49,9 @@ window.addEventListener('DOMContentLoaded', event => {
                         <div class="d-block mt-5">
                             <a href="#" class="btn btn-play-button text-orange-text border-white w-30" style="font-family: 'league_spartanbold';">PLAY GAME</a>
                             <div class="d-flex text-white justify-content-center mt-5">
-                                <a href="https://discord.io/CryptoMonkeys" target="_blank" rel="noopener noreferrer"><i class="fab fa-discord fa-2x me-4"></i></a>
-                                <a href="https://t.me/cryptomonkeysgame" target="_blank" rel="noopener noreferrer"></a><i class="fab fa-telegram-plane fa-2x me-4"></i></a>
-                                <a href="https://twitter.com/_CryptoMonkeys" target="_blank" rel="noopener noreferrer"></a><i class="fab fa-twitter fa-2x"></i></a>
+                                <a href="https://discord.io/CryptoMonkeys" class="social-buttons" target="_blank" rel="noopener noreferrer"><i class="fab fa-discord fa-2x me-4"></i></a>
+                                <a href="https://t.me/cryptomonkeysgame" class="social-buttons" target="_blank" rel="noopener noreferrer"><i class="fab fa-telegram-plane fa-2x me-4"></i></a>
+                                <a href="https://twitter.com/_CryptoMonkeys" class="social-buttons" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter fa-2x"></i></a>
                             </div>
                         </div>
                     </div>
@@ -72,9 +72,9 @@ window.addEventListener('DOMContentLoaded', event => {
                         <div class="d-block mt-5">
                             <a href="#" class="btn btn-play-button text-orange-text border-white w-30" style="font-family: 'league_spartanbold';">PLAY GAME</a>
                             <div class="d-flex text-white justify-content-center mt-5">
-                                <a href="https://discord.io/CryptoMonkeys" target="_blank" rel="noopener noreferrer"><i class="fab fa-discord fa-2x me-4"></i></a>
-                                <a href="https://t.me/cryptomonkeysgame" target="_blank" rel="noopener noreferrer"></a><i class="fab fa-telegram-plane fa-2x me-4"></i></a>
-                                <a href="https://twitter.com/_CryptoMonkeys" target="_blank" rel="noopener noreferrer"></a><i class="fab fa-twitter fa-2x"></i></a>
+                                <a href="https://discord.io/CryptoMonkeys" class="social-buttons" target="_blank" rel="noopener noreferrer"><i class="fab fa-discord fa-2x me-4"></i></a>
+                                <a href="https://t.me/cryptomonkeysgame" class="social-buttons" target="_blank" rel="noopener noreferrer"><i class="fab fa-telegram-plane fa-2x me-4"></i></a>
+                                <a href="https://twitter.com/_CryptoMonkeys" class="social-buttons" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter fa-2x"></i></a>
                             </div>
                         </div>
                     </div>

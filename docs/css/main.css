@@ -1,16 +1,11 @@
-:root {
-    --navbar-height: 300px;
-}
-
-.nav-heigth {
-    height: var(--navbar-height);
-}
-
-.navbar-shrink {
-    background-color: black !important;
-    border-bottom: white 1px solid !important;
-}
-
 body {
     font-family: 'Avenir LT Pro 55 Roman';
+}
+
+.social-buttons {
+    color: white;
+}
+
+.social-buttons:hover {
+    color: grey;
 }
