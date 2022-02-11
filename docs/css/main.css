@@ -28,12 +28,15 @@ body {
 }
 
 .monkey-video {
-    
-    width: 200px;
-    height: 240px;
-    /* box-shadow: rgba(255, 255, 255, 0.35) 0px 5px 15px; */
+    width: 250px;
+    height: 300px;
     box-shadow: rgba(150, 150, 170, 0.2) 0px 7px 29px 0px;
     border-radius: 15px;
+} 
+
+.monkey-video-in {
+    width: 250px;
+    height: 300px;
 } 
 
 @media (min-width: 768px) { 
@@ -53,4 +56,16 @@ body {
     .text-box-sizing {
         width: 50%;
     }
+
+    .monkey-video {
+        width: 300px;
+        height: 330px;
+        box-shadow: rgba(150, 150, 170, 0.2) 0px 7px 29px 0px;
+        border-radius: 15px;
+    } 
+    
+    .monkey-video-in {
+        width: 300px;
+        height: 330px;
+    } 
 }

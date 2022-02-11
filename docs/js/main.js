@@ -112,7 +112,7 @@ window.addEventListener('DOMContentLoaded', event => {
                     </button>
                 </div>
                 <p class="text-center text-white text-box-sizing">
-                    Cave mokey is not particulary bright, but what he lacks in brains, he makes do with
+                    Cave monkey is not particulary bright, but what he lacks in brains, he makes do with
                     brute force and instincts. He can smell bananas from a 2 mile distance.
                 </p>
                 `

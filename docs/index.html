@@ -28,7 +28,7 @@
         <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
         <script defer src="js/main.js"></script>
     </head>
-    <body class="" style="background: url('./img/Fundo\ Bananas\ BG\ Menores.jpg') no-repeat center center fixed; background-size: cover;">
+    <body style="background: url('./img/Fundo\ Bananas\ BG\ Menores.jpg') no-repeat center center fixed; background-size: cover;">
         <!-- Google Tag Manager (noscript) -->
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KB7PSPQ"
         height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -53,10 +53,8 @@
                 </div>
             </nav>
             
-            <!-- Create resposive design colocar texto em cima de macacos com altura de macaco = 50vh no celular
-            no pc colocar texto ao lado dos macacos com altura dos macacos = 100vh -->
-            <header class="position-relative" style="width: 100%; background: url('./img/background_jungle_fade.png'); background-size: cover; padding: 0; z-index: 1;">
-                <div class="container" style="margin-left: 0; margin-right: 0; margin-bottom: 0; padding-left: 0; padding-right: 0; padding-bottom: 0;">
+            <header class="position-relative" style="width: 100%; background: url('./img/bg-dark-fade.png'); background-size: cover; padding: 0;">
+                <div class="container" style="margin-left: 0; margin-right: 0; margin-bottom: 0; padding-left: 0; padding-right: 0; padding-bottom: 0; background: url('./img/background_jungle_fade.png'); background-size: cover; padding: 0;">
                     <div id="header-content" class="row gx-0 d-flex">
                         <div class="col-md-6 col-12 d-flex align-items-end">
                             <img id="cover-image" class="position-relative start-0 bottom-0" style="z-index: 0; height: 50vh;" src="./img/main_monkeys_fade.png" alt="">
@@ -153,7 +151,7 @@
             </section>
 
             <!-- need to remove fixed width of all elements in carousel to achieve better responsiveness (no x-overflow) -->
-            <section id="chars-section" class="position-relative mt-5 pt-3 pb-5 mb-3" style="width: 100%;">
+            <section id="chars-section" class="position-relative pb-5 mb-3" style="width: 100%;">
                 <div class="d-flex flex-column justify-content-evenly align-items-center ">
 
                     <img class="page-title-meet-monkeys" src="./img/MONKEFONTE.png" alt="">
@@ -162,7 +160,7 @@
                         <div class="carousel-inner monkey-video">
                           <div class="carousel-item active" data-interval="7000">
                             <div class="d-flex justify-content-center w-100">
-                                <video width="200px" height="240px" autoplay muted loop>
+                                <video class="monkey-video-in" autoplay muted loop>
                                     <source src="./img/Neandermonkey - Vídeo.mp4" type="video/mp4">
                                     Your browser does not support the video, please use a different browser.
                                 </video>
@@ -170,7 +168,7 @@
                           </div>
                           <div class="carousel-item" data-interval="7000">
                             <div class="d-flex justify-content-center w-100">
-                                <video width="200px" height="240px" autoplay muted loop>
+                                <video class="monkey-video-in" autoplay muted loop>
                                     <source src="./img/Medieval - Vídeo.mp4" type="video/mp4">
                                     Your browser does not support the video, please use a different browser.
                                 </video>
@@ -178,7 +176,7 @@
                           </div>
                           <div class="carousel-item" data-interval="7000">
                             <div class="d-flex justify-content-center w-100">
-                                <video width="200px" height="240px" autoplay muted loop>
+                                <video class="monkey-video-in" autoplay muted loop>
                                     <source src="./img/Futuro - Vídeo.mp4" type="video/mp4">
                                     Your browser does not support the video, please use a different browser.
                                 </video>
@@ -186,7 +184,7 @@
                           </div>
                           <div class="carousel-item" data-interval="7000">
                             <div class="d-flex justify-content-center w-100">
-                                <video width="200px" height="240px" autoplay muted loop>
+                                <video class="monkey-video-in" autoplay muted loop>
                                     <source src="./img/Coming Soon - Vídeo.mp4" type="video/mp4">
                                     Your browser does not support the video, please use a different browser.
                                 </video>
