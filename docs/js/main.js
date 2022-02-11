@@ -100,7 +100,17 @@ window.addEventListener('DOMContentLoaded', event => {
         if (activeElement == 0) {
             textBox.innerHTML =
                 `
-                <h5 class="text-orange-text fw-bold p-1">Cave monkey <span class="badge bg-grey-text text-black p-1 mb-1">Commom</span></h5>
+                <div class="d-flex justify-content-center align-items-center">
+                    <button class="mb-1 btn bg-transparent border-0" type="button" data-bs-target="#carousel-monkeys" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <h5 class="text-orange-text fw-bold p-1">Cave monkey <span class="badge bg-grey-text text-black p-1 mb-1">Commom</span></h5>
+                    <button class="mb-1 btn bg-transparent border-0" type="button" data-bs-target="#carousel-monkeys" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
                 <p class="text-center text-white text-box-sizing">
                     Cave mokey is not particulary bright, but what he lacks in brains, he makes do with
                     brute force and instincts. He can smell bananas from a 2 mile distance.
@@ -109,7 +119,17 @@ window.addEventListener('DOMContentLoaded', event => {
         } else if (activeElement == 1) {
             textBox.innerHTML = 
                 `
-                <h5 class="text-orange-text fw-bold p-1" >Knight monkey <span class="badge bg-orange-text text-black p-1 mb-1">Rare</span></h5>
+                <div class="d-flex justify-content-center align-items-center">
+                    <button class="mb-1 btn bg-transparent border-0" type="button" data-bs-target="#carousel-monkeys" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <h5 class="text-orange-text fw-bold p-1" >Knight monkey <span class="badge bg-orange-text text-black p-1 mb-1">Rare</span></h5>
+                    <button class="mb-1 btn bg-transparent border-0" type="button" data-bs-target="#carousel-monkeys" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
                 <p class="text-center text-white text-box-sizing">
                     Evolution made this monkey a true war machine. Knight monkey is stronger, fiercer 
                     and more athletic than any other monkey. With him by your side there is no way
@@ -119,7 +139,17 @@ window.addEventListener('DOMContentLoaded', event => {
         } else if (activeElement == 2) {
             textBox.innerHTML = 
                 `
-                <h5 class="text-orange-text fw-bold p-1">Meta Monkey <span class="badge bg-secondary text-black p-1 mb-1">Legendary</span></h5>
+                <div class="d-flex justify-content-center align-items-center">
+                    <button class="mb-1 btn bg-transparent border-0" type="button" data-bs-target="#carousel-monkeys" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <h5 class="text-orange-text fw-bold p-1">Meta Monkey <span class="badge bg-secondary text-black p-1 mb-1">Legendary</span> </h5> 
+                    <button class="mb-1 btn bg-transparent border-0" type="button" data-bs-target="#carousel-monkeys" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
                 <p class="text-center text-white text-box-sizing">
                     The apex of intelligence and inventiveness, Meta Monkey is no longer bound by the physical
                     world. He is a brilliant entrepeuneur and can find ways to become a banana millionaire both online
@@ -129,7 +159,17 @@ window.addEventListener('DOMContentLoaded', event => {
         } else if (activeElement == 3) {
             textBox.innerHTML = 
                 `
-                <h5 class="text-orange-text fw-bold p-1">Coming Soon</h5>
+                <div class="d-flex justify-content-center align-items-center">
+                    <button class="btn bg-transparent border-0" type="button" data-bs-target="#carousel-monkeys" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <h5 class="text-orange-text fw-bold p-1">Coming Soon</h5>
+                    <button class="btn bg-transparent border-0" type="button" data-bs-target="#carousel-monkeys" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
                 <p class="text-center text-white text-box-sizing">
                     The full collection will have 11 unique monkey types from all ages. We'll be releasing new
                     monkeys every week until the game launch date!
