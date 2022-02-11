@@ -27,7 +27,6 @@ window.addEventListener('DOMContentLoaded', event => {
     // change page cover based on viewport width
     function changePageCoverResponsive() {
         let rowNode = document.getElementById("header-content");
-        console.log(rowNode)
         let width = window.innerWidth;
 
         let newNode = document.createElement('div');
@@ -88,5 +87,51 @@ window.addEventListener('DOMContentLoaded', event => {
 
 
     //change video playback ratio
-    document.querySelector('video').playbackRate = 0.75;
+    document.querySelectorAll('video').forEach(element => {
+        element.playbackRate = 0.75;
+    })
+
+    //add function to change text in carousel
+    function carouselTextChange (event) {
+
+        let textBox = document.getElementById("carousel-desc");
+        let activeElement = event.to;
+
+        if (activeElement == 0) {
+            textBox.innerHTML =
+                `
+                <h5 class="text-white p-1">Cave monkey <span class="badge bg-grey-text text-black p-1 mb-1">Commom</span></h5>
+                <p class="text-center text-white text-box-sizing">
+                    Cave mokey is not particulary bright, but what he lacks in brains, he makes do with
+                    brute force and instincts. He can smell bananas from a 2 mile distance.
+                </p>
+                `
+        } else if (activeElement == 1) {
+            textBox.innerHTML = 
+                `
+                <h5 class="text-white p-1" >Knight monkey <span class="badge bg-orange-text text-black p-1 mb-1">Rare</span></h5>
+                <p class="text-center text-white text-box-sizing">
+                    Evolution made this monkey a true war machine. Knight monkey is stronger, fiercer 
+                    and more athletic than any other monkey. With him by your side there is no way
+                    someone will try to steal your bananas.
+                </p>
+                `
+        } else if (activeElement == 2) {
+            textBox.innerHTML = 
+                `
+                <h5 class="text-white p-1">Meta Monkey <span class="badge bg-secondary text-black p-1 mb-1">Legendary</span></h5>
+                <p class="text-center text-white text-box-sizing">
+                    The apex of intelligence and inventiveness, Meta Monkey is no longer bound by the physical
+                    world. He is a brilliant entrepeuneur and can find ways to become a banana millionaire both online
+                    and in real life.
+                </p>
+                `
+        }
+
+    }
+
+    let myCarousel = document.getElementById('carousel-monkeys');
+
+    myCarousel.addEventListener('slide.bs.carousel', carouselTextChange);
+    carouselTextChange({to: 0});
 });

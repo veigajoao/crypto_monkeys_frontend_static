@@ -19,6 +19,10 @@ body {
     height: auto;
 }
 
+.text-box-sizing {
+    width: 80%;
+}
+
 @media (min-width: 768px) { 
     .page-title {
         width: 25vw;
@@ -27,5 +31,9 @@ body {
     .tokenomics-img {
         width: 50%; 
         height: auto;
+    }
+
+    .text-box-sizing {
+        width: 50%;
     }
 }

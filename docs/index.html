@@ -39,7 +39,6 @@
                 <div class="container">
                     <div>
                         <div class="d-flex justify-content-center">
-                            <img src="./img/Logo Monkey 200x200 cabeça.png" alt="Logo">
                             <img src="./img/Logo Monkey 200x200 Escrita.png" alt="Logo">
                         </div>
                         
@@ -155,75 +154,51 @@
 
             <!-- need to remove fixed width of all elements in carousel to achieve better responsiveness (no x-overflow) -->
             <section id="chars-section" class="position-relative" style="width: 100%;">
-                <div class="d-flex flex-column justify-content-evenly align-items-center p-5 m-5">
+                <div class="d-flex flex-column justify-content-evenly align-items-center ">
 
                     <h3 class="p-1" style="font-family: 'league_spartanbold'; color:   #F8C84A;">MEET THE MONKEYS</h3>
 
-                    <div id="carouselExampleCaptions" class="carousel slide carousel-fade" data-bs-ride="carousel">
-                        <div class="carousel-indicators">
-                          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-                          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
-                        </div>
+                    <div id="carousel-monkeys" class="carousel slide carousel-fade" data-bs-ride="carousel">
                         <div class="carousel-inner">
-                          <div class="carousel-item active">
-                            <div class="d-flex justify-content-center w-100">
+                          <div id="0" class="carousel-item active">
+                            <div class="d-flex justify-content-center">
                                 <video width="320" height="240" autoplay muted loop>
                                     <source src="./img/Neandermonkey - Vídeo.mp4" type="video/mp4">
-                                    Your browser does not support the video tag.
+                                    Your browser does not support the video, please use a different browser.
                                 </video>
                             </div>
-                            <div class="carousel-caption d-block">
-                              <h5 class="text-white p-1">Cave monkey <span class="badge bg-grey-text text-black p-1 mb-1">Commom</span></h5>
-                              <p>
-                                  Cave mokey is not particulary bright, but what he lacks in brains, he makes do with
-                                  brute force and instincts. He can smell bananas from a 2 mile distance.
-                              </p>
-                            </div>
                           </div>
-                          <div class="carousel-item">
+                          <div id="1" class="carousel-item">
                             <div class="d-flex justify-content-center">
                                 <video width="320" height="240" autoplay muted loop>
                                     <source src="./img/Medieval - Vídeo.mp4" type="video/mp4">
-                                    Your browser does not support the video tag.
+                                    Your browser does not support the video, please use a different browser.
                                 </video>
                             </div>
-                            <div class="carousel-caption d-block">
-                                <h5 class="text-white p-1" >Knight monkey <span class="badge bg-orange-text text-black p-1 mb-1">Rare</span></h5>
-                                <p>
-                                    Evolution made this monkey a true war machine. Knight monkey is stronger, fiercer 
-                                    and more athletic than any other monkey. With him by your side there is no way
-                                    someone will try to steal your bananas.
-                                </p>
-                            </div>
                           </div>
-                          <div class="carousel-item">
+                          <div id="2" class="carousel-item">
                             <div class="d-flex justify-content-center">
                                 <video width="320" height="240" autoplay muted loop>
                                     <source src="./img/Futuro - Vídeo.mp4" type="video/mp4">
-                                    Your browser does not support the video tag.
+                                    Your browser does not support the video, please use a different browser.
                                 </video>
-                            </div>
-                            <div class="carousel-caption d-block">
-                                <h5 class="text-white p-1">Meta Monkey <span class="badge bg-secondary text-black p-1 mb-1">Legendary</span></h5>
-                                <p>
-                                    The apex of intelligence and inventiveness, Meta Monkey is no longer bound by the physical
-                                    world. He is a brilliant entrepeuneur and can find ways to become a banana millionaire both online
-                                    and in real life.
-                                </p>
                             </div>
                           </div>
                         </div>
-                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+                        <button class="carousel-control-prev" type="button" data-bs-target="#carousel-monkeys" data-bs-slide="prev">
                           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                           <span class="visually-hidden">Previous</span>
                         </button>
-                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+                        <button class="carousel-control-next" type="button" data-bs-target="#carousel-monkeys" data-bs-slide="next">
                           <span class="carousel-control-next-icon" aria-hidden="true"></span>
                           <span class="visually-hidden">Next</span>
                         </button>
                     </div>
 
+                </div>
+
+                <div id="carousel-desc" class="d-flex flex-column justify-content-center align-items-center">
+        
                 </div>
             </section>
 
