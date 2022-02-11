@@ -45,10 +45,10 @@ body {
 
 .main-bg {
     background: url('../img/banana-bg-mobile.jpg') no-repeat center center fixed; 
-    background-size: cover; 
-    -moz-background-size: cover;
-    -webkit-background-size: cover;
-    -o-background-size: cover;
+    background-size: contain; 
+    -moz-background-size: contain;
+    -webkit-background-size: contain;
+    -o-background-size: contain;
 }
 
 @media (min-width: 768px) { 
