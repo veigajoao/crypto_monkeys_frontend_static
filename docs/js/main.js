@@ -86,4 +86,7 @@ window.addEventListener('DOMContentLoaded', event => {
     window.addEventListener('resize', changePageCoverResponsive);
     changePageCoverResponsive();
 
+
+    //change video playback ratio
+    document.querySelector('video').playbackRate = 0.75;
 });
