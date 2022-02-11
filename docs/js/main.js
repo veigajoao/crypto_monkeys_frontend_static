@@ -105,14 +105,14 @@ window.addEventListener('DOMContentLoaded', event => {
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                         <span class="visually-hidden">Previous</span>
                     </button>
-                    <h5 class="text-orange-text fw-bold p-1">Cave monkey <span class="badge bg-grey-text text-black p-1 mb-1">Commom</span></h5>
+                    <h5 class="text-orange-text fw-bold p-1">Cave Monkey <span class="badge bg-grey-text text-black p-1 mb-1">Commom</span></h5>
                     <button class="mb-1 btn bg-transparent border-0" type="button" data-bs-target="#carousel-monkeys" data-bs-slide="next">
                         <span class="carousel-control-next-icon" aria-hidden="true"></span>
                         <span class="visually-hidden">Next</span>
                     </button>
                 </div>
                 <p class="text-center text-white text-box-sizing">
-                    Cave monkey is not particulary bright, but what he lacks in brains, he makes do with
+                    Cave monkey is not particularly bright, but what he lacks in brains, he makes do with
                     brute force and instincts. He can smell bananas from a 2 mile distance.
                 </p>
                 `
@@ -124,7 +124,7 @@ window.addEventListener('DOMContentLoaded', event => {
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                         <span class="visually-hidden">Previous</span>
                     </button>
-                    <h5 class="text-orange-text fw-bold p-1" >Knight monkey <span class="badge bg-orange-text text-black p-1 mb-1">Rare</span></h5>
+                    <h5 class="text-orange-text fw-bold p-1" >Knight Monkey <span class="badge bg-orange-text text-black p-1 mb-1">Rare</span></h5>
                     <button class="mb-1 btn bg-transparent border-0" type="button" data-bs-target="#carousel-monkeys" data-bs-slide="next">
                         <span class="carousel-control-next-icon" aria-hidden="true"></span>
                         <span class="visually-hidden">Next</span>
