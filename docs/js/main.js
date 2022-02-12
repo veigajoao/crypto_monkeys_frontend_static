@@ -46,7 +46,7 @@ window.addEventListener('DOMContentLoaded', event => {
                             <div class="text-orange-text" style="font-family: 'league_spartanbold';font-size: x-large; margin-top: -30px;">THE FIRST MONKEYS METAVERSE</span>
                         </div>
                         <div class="d-block mt-5">
-                            <a href="#" class="btn btn-play-button text-orange-text border-white w-30" style="font-family: 'league_spartanbold';">JOIN  WHITELIST</a>
+                            <a href="https://socialman.net/c/Jfnh2/" target="_blank" rel="noopener noreferrer" class="btn btn-play-button text-orange-text border-white w-30" style="font-family: 'league_spartanbold';">JOIN WHITELIST</a>
                             <div class="d-flex text-white justify-content-center mt-5">
                                 <a href="https://discord.io/CryptoMonkeys" class="social-buttons" target="_blank" rel="noopener noreferrer"><i class="fab fa-discord fa-2x me-4"></i></a>
                                 <a href="https://t.me/cryptomonkeysgame" class="social-buttons" target="_blank" rel="noopener noreferrer"><i class="fab fa-telegram-plane fa-2x me-4"></i></a>
@@ -69,7 +69,7 @@ window.addEventListener('DOMContentLoaded', event => {
                             <div class="text-orange-text" style="font-family: 'league_spartanbold';font-size: x-large; margin-top: -30px;">THE FIRST MONKEYS METAVERSE</span>
                         </div>
                         <div class="d-block mt-5">
-                            <a href="#" class="btn btn-play-button text-orange-text border-white w-30" style="font-family: 'league_spartanbold';">JOIN  WHITELIST</a>
+                            <a href="https://socialman.net/c/Jfnh2/" target="_blank" rel="noopener noreferrer" class="btn btn-play-button text-orange-text border-white w-30" style="font-family: 'league_spartanbold';">JOIN WHITELIST</a>
                             <div class="d-flex text-white justify-content-center mt-5">
                                 <a href="https://discord.io/CryptoMonkeys" class="social-buttons" target="_blank" rel="noopener noreferrer"><i class="fab fa-discord fa-2x me-4"></i></a>
                                 <a href="https://t.me/cryptomonkeysgame" class="social-buttons" target="_blank" rel="noopener noreferrer"><i class="fab fa-telegram-plane fa-2x me-4"></i></a>
