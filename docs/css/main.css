@@ -66,6 +66,9 @@ body {
     height: auto
 }
 
+.nav-resp-background {
+    background: rgba(0, 0, 0, 0.8) no-repeat center center fixed; 
+}
 
 @media (min-width: 768px) { 
     .page-title {
@@ -123,5 +126,9 @@ body {
     .logo-text {
         width: 8vw; 
         height: auto
+    }
+
+    .nav-resp-background {
+        background: rgba(0, 0, 0, 0) no-repeat center center fixed; 
     }
 }
