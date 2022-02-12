@@ -70,6 +70,31 @@ body {
     background: rgba(0, 0, 0, 0.8) no-repeat center center fixed; 
 }
 
+.header-section {
+    width: 100%; 
+    background: url('../img/bd-dark-fade.png'); 
+    background-size: cover; 
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover; 
+    padding: 0;
+}
+
+.container-header {
+    margin-left: 0; 
+    margin-right: 0; 
+    margin-bottom: 0; 
+    padding-left: 0; 
+    padding-right: 0; 
+    padding-bottom: 0; 
+    background: url('../img/background_jungle_fade.png'); 
+    background-size: cover; 
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover; 
+    padding: 0;
+}
+
 @media (min-width: 768px) { 
     .page-title {
         width: 20vw;
