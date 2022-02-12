@@ -44,7 +44,7 @@ body {
 }
 
 .main-bg {
-    background: url('../img/banana-bg.jpg') no-repeat center center fixed; 
+    background: url('../img/banana-bg-mobile.jpg') no-repeat center center fixed; 
     background-size: cover; 
     -moz-background-size: cover;
     -webkit-background-size: cover;
@@ -54,6 +54,16 @@ body {
 .roadmap-img {
     width: 80%;
     height: auto;
+}
+
+.logo-head {
+    width: 8vw; 
+    height: auto;
+}
+
+.logo-text {
+    width: 12vw; 
+    height: auto
 }
 
 
@@ -103,5 +113,15 @@ body {
     .roadmap-img {
         width: 50%;
         height: auto;
+    }
+
+    .logo-head {
+        width: 5vw; 
+        height: auto;
+    }
+    
+    .logo-text {
+        width: 8vw; 
+        height: auto
     }
 }
