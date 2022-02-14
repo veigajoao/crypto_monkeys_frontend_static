@@ -124,16 +124,16 @@ window.addEventListener('DOMContentLoaded', event => {
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                         <span class="visually-hidden">Previous</span>
                     </button>
-                    <h5 class="text-orange-text fw-bold p-1" >Knight Monkey <span class="badge bg-orange-text text-black p-1 mb-1">Rare</span></h5>
+                    <h5 class="text-orange-text fw-bold p-1" >Guardian Monkey <span class="badge bg-orange-text text-black p-1 mb-1">Rare</span></h5>
                     <button class="mb-1 btn bg-transparent border-0" type="button" data-bs-target="#carousel-monkeys" data-bs-slide="next">
                         <span class="carousel-control-next-icon" aria-hidden="true"></span>
                         <span class="visually-hidden">Next</span>
                     </button>
                 </div>
                 <p class="text-center text-white text-box-sizing">
-                    Evolution made this monkey a true war machine. Knight monkey is stronger, fiercer 
+                    Evolution made this monkey a true war machine. Guardian monkey is stronger, fiercer 
                     and more athletic than any other monkey. With him by your side there is no way
-                    someone will try to steal your bananas.
+                    anyone will try to steal your bananas.
                 </p>
                 `
         } else if (activeElement == 2) {
