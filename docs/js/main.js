@@ -105,7 +105,7 @@ window.addEventListener('DOMContentLoaded', event => {
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                         <span class="visually-hidden">Previous</span>
                     </button>
-                    <h5 class="text-orange-text fw-bold p-1">Cave Monkey <span class="badge bg-grey-text text-black p-1 mb-1">Commom</span></h5>
+                    <h5 class="text-orange-text fw-bold p-1">Cave Monkey <span class="badge bg-grey-text text-black p-1 mb-1">Common</span></h5>
                     <button class="mb-1 btn bg-transparent border-0" type="button" data-bs-target="#carousel-monkeys" data-bs-slide="next">
                         <span class="carousel-control-next-icon" aria-hidden="true"></span>
                         <span class="visually-hidden">Next</span>
