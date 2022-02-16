@@ -100,7 +100,7 @@ window.addEventListener('DOMContentLoaded', event => {
         if (activeElement == 0) {
             textBox.innerHTML =
                 `
-                <div class="d-flex justify-content-center align-items-center">
+                <div class="d-flex justify-content-center align-items-center w-100">
                     <button class="mb-1 btn bg-transparent border-0" type="button" data-bs-target="#carousel-monkeys" data-bs-slide="prev">
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                         <span class="visually-hidden">Previous</span>
@@ -119,7 +119,26 @@ window.addEventListener('DOMContentLoaded', event => {
         } else if (activeElement == 1) {
             textBox.innerHTML = 
                 `
-                <div class="d-flex justify-content-center align-items-center">
+                <div class="d-flex justify-content-center align-items-center w-100">
+                    <button class="mb-1 btn bg-transparent border-0" type="button" data-bs-target="#carousel-monkeys" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <h5 class="text-orange-text fw-bold p-1" >Farmer Monkey <span class="badge bg-orange-text text-black p-1 mb-1">Rare</span></h5>
+                    <button class="mb-1 btn bg-transparent border-0" type="button" data-bs-target="#carousel-monkeys" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+                <p class="text-center text-white text-box-sizing">
+                    A life bound to religion and serfdom, the farmer monkey is a restless worker, able to produce large ammounts
+                    of bananas at the manor's farms using medieval farming techniques.
+                </p>
+                `
+        } else if (activeElement == 2) {
+            textBox.innerHTML = 
+                `
+                <div class="d-flex justify-content-center align-items-center w-100">
                     <button class="mb-1 btn bg-transparent border-0" type="button" data-bs-target="#carousel-monkeys" data-bs-slide="prev">
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                         <span class="visually-hidden">Previous</span>
@@ -136,10 +155,29 @@ window.addEventListener('DOMContentLoaded', event => {
                     anyone will try to steal your bananas.
                 </p>
                 `
-        } else if (activeElement == 2) {
+        } else if (activeElement == 3) {
             textBox.innerHTML = 
                 `
-                <div class="d-flex justify-content-center align-items-center">
+                <div class="d-flex justify-content-center align-items-center w-100">
+                    <button class="mb-1 btn bg-transparent border-0" type="button" data-bs-target="#carousel-monkeys" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <h5 class="text-orange-text fw-bold p-1">Intern Monkey <span class="badge bg-blue-rarity text-black p-1 mb-1">Epic</span> </h5> 
+                    <button class="mb-1 btn bg-transparent border-0" type="button" data-bs-target="#carousel-monkeys" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+                <p class="text-center text-white text-box-sizing">
+                    Modern monkey life happens at concrete jungles. This young ape is intelligent and ambitious, with
+                    the right internships he may - one day - become a banana rich investor.
+                </p>
+                `
+        } else if (activeElement == 4) {
+            textBox.innerHTML = 
+                `
+                <div class="d-flex justify-content-center align-items-center w-100">
                     <button class="mb-1 btn bg-transparent border-0" type="button" data-bs-target="#carousel-monkeys" data-bs-slide="prev">
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                         <span class="visually-hidden">Previous</span>
@@ -156,10 +194,10 @@ window.addEventListener('DOMContentLoaded', event => {
                     and in real life.
                 </p>
                 `
-        } else if (activeElement == 3) {
+        } else if (activeElement == 5) {
             textBox.innerHTML = 
                 `
-                <div class="d-flex justify-content-center align-items-center">
+                <div class="d-flex justify-content-center align-items-center w-100">
                     <button class="btn bg-transparent border-0" type="button" data-bs-target="#carousel-monkeys" data-bs-slide="prev">
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                         <span class="visually-hidden">Previous</span>

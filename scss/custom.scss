@@ -6,6 +6,8 @@
 $primary: #131425;
 $secondary: #85248d;
 
+$blue-rarity: blue;
+
 $grey-text: #C1C1C1;
 $orange-text:#F8C84A;
 $play-button:#111A19;
@@ -18,7 +20,8 @@ $theme-colors: (
   "primary": $primary,
   "secondary": $secondary,
   "grey-text": $grey-text,
-  "orange-text": $orange-text
+  "orange-text": $orange-text,
+  "blue-rarity": $blue-rarity,
 );
 
 // b. Standard fonts
