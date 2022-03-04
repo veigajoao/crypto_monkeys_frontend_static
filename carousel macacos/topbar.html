@@ -2,7 +2,7 @@
     <input type="checkbox" id="nav-check">
     <div class="nav-header">
       <div class="nav-title">
-        
+        <img class="title-image" src="https://newcryptomonkeyslp.local/wp-content/uploads/2022/02/LOGO-1920x1080-1.png" alt="">
       </div>
     </div>
     <div class="nav-btn">
@@ -16,7 +16,7 @@
     <div class="nav-links">
       <a class="nav-link-class" href="#token-section">TOKEN</a>
       <a class="nav-link-class" href="#game-section">GAME</a>
-      <a class="nav-link-class" href="https://whitepaper.cryptomonkeys.me/" target="_blank">WHITEPAPER</a>
+      <a class="nav-link-class" href="https://whitepaper.cryptomonkeys.me/" target="_blank">READ THE <span class="nav-border">WHITEPAPER</span></a>
       <a class="nav-link-class" href="https://socialman.net/c/Jfnh2" target="_blank">JOIN WHITELIST</a>
     </div>
   </div>
@@ -42,6 +42,13 @@
     padding: 10px 10px 10px 10px;
   }
   
+  .title-image {
+    position: absolute;
+    left: 1rem;
+    top: -0.7rem;
+    width: 15vh; 
+    height: auto;
+  }
   .nav > .nav-btn {
     display: none;
   }
@@ -58,6 +65,12 @@
     padding: 13px 10px 13px 10px;
     text-decoration: none;
     color: #efefef;
+  }
+
+  .nav-border {
+    border: 1.5px solid white;
+    border-radius: 5px;
+    font-weight: bold;
   }
   
   .nav > .nav-links > .nav-link-class:hover {
