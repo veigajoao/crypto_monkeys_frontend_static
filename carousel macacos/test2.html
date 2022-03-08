@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="test2.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <script>
+        //change video playback ratio
+        document.querySelectorAll('video').forEach(element => {
+            element.playbackRate = 0.01;
+        })
+    </script>
+    <script src="test2.js"></script>
+</head>
+<body>
+        <div class='wrapper'>
+            <div class='carousel'>
+    
+              <div id="item-1" class='carousel__item position3'>
+                <div class='carousel__item-head'>
+                    <video class="monkey-video-in" preload autoplay muted loop playsinline>
+                        <source src="a.mp4" type="video/mp4">
+                        Your browser does not support the video, please use a different browser.
+                    </video>
+                </div>
+                <div class='carousel__item-body'>
+                    <h3>Cave monkey</h3>
+                    <div class="common-monkey">Common</div>
+                    <p>
+                        Cave monkey is not particularly bright, but what he lacks in brains, he makes do with brute force and instincts. He can smell bananas from a 2 mile distance.
+                    </p>
+                </div>
+              </div>
+    
+              <div id="item-2" class='carousel__item position2'>
+                <div class='carousel__item-head'>
+                    <video class="monkey-video-in" preload autoplay muted loop playsinline>
+                        <source src="b.mp4" type="video/mp4">
+                        Your browser does not support the video, please use a different browser.
+                    </video>
+                </div>
+                <div class='carousel__item-body'>
+                    <h3>Gatherer</h3>
+                    <div class="common-monkey">Common</div>
+                    <p>
+                        A greedy miser monkey, he gathers more bananas than everyone else and never shares them.    
+                    </p>
+                </div>
+              </div>
+    
+              <div id="item-3" class='carousel__item position1'>
+                <div class='carousel__item-head'>
+                    <video class="monkey-video-in" preload autoplay muted loop playsinline>
+                        <source src="c.mp4" type="video/mp4">
+                        Your browser does not support the video, please use a different browser.
+                    </video>
+                </div>
+                <div class='carousel__item-body'>
+                    <h3>Hunter</h3>
+                    <div class="common-monkey">Common</div>
+                    <p>
+                        Hunter is the jungle's apex predator, no animal can escape his traps. The only thing we don't understand is why he hunts if he only eats bananas...  
+                    </p>
+                </div>
+              </div>
+    
+              <div id="item-4" class='carousel__item position0'>
+                <div class='carousel__item-head'>
+                    <video class="monkey-video-in" preload autoplay muted loop playsinline>
+                        <source src="d.mp4" type="video/mp4">
+                        Your browser does not support the video, please use a different browser.
+                    </video>
+                </div>
+                <div class='carousel__item-body'>
+                    <h3>Firebender</h3>
+                    <div class="common-monkey">Common</div>
+                    <p>
+                        He's discovered the power of fire and in prehistory no one messes with him. Some even call him a monkey god.
+                    </p>
+                </div>
+              </div>
+    
+              <div id="item-5" class='carousel__item positionNone'>
+                <div class='carousel__item-head'>
+                    <video class="monkey-video-in" preload autoplay muted loop playsinline>
+                        <source src="e.mp4" type="video/mp4">
+                        Your browser does not support the video, please use a different browser.
+                    </video>
+                </div>
+                <div class='carousel__item-body'>
+                    <h3>Farmer</h3>
+                    <div class="rare-monkey">Rare</div>
+                    <p>
+                        A life bound to religion and serfdom, the farmer monkey is a restless worker, able to produce large ammounts of bananas at the manor's farms using medieval farming techniques.
+                    </p>
+                </div>
+              </div>
+    
+              <div id="item-6" class='carousel__item positionNone'>
+                <div class='carousel__item-head'>
+                    <video class="monkey-video-in" preload autoplay muted loop playsinline>
+                        <source src="f.mp4" type="video/mp4">
+                        Your browser does not support the video, please use a different browser.
+                    </video>
+                </div>
+                <div class='carousel__item-body'>
+                    <h3>Guardian</h3>
+                    <div class="rare-monkey">Rare</div>
+                    <p>
+                        Evolution made this monkey a true war machine. Guardian monkey is stronger, fiercer and more athletic than any other monkey. With him by your side there is no way anyone will dare to steal your bananas.
+                    </p>
+                </div>
+              </div>
+    
+              <div id="item-7" class='carousel__item positionNone'>
+                <div class='carousel__item-head'>
+                    <video class="monkey-video-in" preload autoplay muted loop playsinline>
+                        <source src="g.mp4" type="video/mp4">
+                        Your browser does not support the video, please use a different browser.
+                    </video>
+                </div>
+                <div class='carousel__item-body'>
+                    <h3>King</h3>
+                    <div class="rare-monkey">Rare</div>
+                    <p>
+                        A true emperor of the jungle, no bananas can be farmed, sold or traded before he takes his cut. Most monkeys hate him but no one dares to stand up to him.
+                    </p>
+                </div>
+              </div>
+    
+              <div id="item-8" class='carousel__item positionNone'>
+                <div class='carousel__item-head'>
+                    <video class="monkey-video-in" preload autoplay muted loop playsinline>
+                        <source src="h.mp4" type="video/mp4">
+                        Your browser does not support the video, please use a different browser.
+                    </video>
+                </div>
+                <div class='carousel__item-body'>
+                    <h3>Intern</h3>
+                    <div class="epic-monkey">Epic</div>
+                    <p>
+                        Modern monkey life happens at concrete jungles. This young ape is intelligent and ambitious, with the right internships he may - one day - become a banana rich cryptoinvestor.
+                    </p>
+                </div>
+              </div>
+    
+              <div id="item-9" class='carousel__item positionNone'>
+                <div class='carousel__item-head'>
+                    <video class="monkey-video-in" preload autoplay muted loop playsinline>
+                        <source src="i.mp4" type="video/mp4">
+                        Your browser does not support the video, please use a different browser.
+                    </video>
+                </div>
+                <div class='carousel__item-body'>
+                    <h3>Crypto investor</h3>
+                    <div class="epic-monkey">Epic</div>
+                    <p>
+                        No one knows how he got so wealthy, but rumors say he bought BNANA's and held. Freaking legend...
+                    </p>
+                </div>
+              </div>
+    
+              <div id="item-10" class='carousel__item positionNone'>
+                <div class='carousel__item-head'>
+                    <video class="monkey-video-in" preload autoplay muted loop playsinline>
+                        <source src="j.mp4" type="video/mp4">
+                        Your browser does not support the video, please use a different browser.
+                    </video>
+                </div>
+                <div class='carousel__item-body'>
+                    <h3>Meta monkey</h3>
+                    <div class="legendary-monkey">Legendary</div>
+                    <p>
+                        The apex of intelligence and inventiveness, Meta Monkey is no longer bound by the physical world. He is a brilliant entrepeuneur and can find ways to become a banana millionaire, both online and in real life.
+                    </p>
+                </div>
+              </div>
+    
+              <div id="item-11" class='carousel__item position4'>
+                <div class='carousel__item-head'>
+                    <video class="monkey-video-in" preload autoplay muted loop playsinline>
+                        <source src="k.mp4" type="video/mp4">
+                        Your browser does not support the video, please use a different browser.
+                    </video>
+                </div>
+                <div class='carousel__item-body'>
+                    <h3>Cyborg</h3>
+                    <div class="legendary-monkey">Legendary</div>
+                    <p>
+                        He is the last evolution of monkeys, his mind has been fully integrated with a quantumcomputer and his body was improved with last generation nano technology. Cyborg will rule this metaverse with a literal iron fist. 
+                    </p>
+                </div>
+              </div>
+    
+            </div>
+        </div>
+
+</body>
+</html>
