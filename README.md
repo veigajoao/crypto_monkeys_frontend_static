@@ -6,3 +6,5 @@ Get static site from WP
 Change all <title> tags  
 Change all paths with "./../" to "./"
 Take index.html and put it on the main docs folder with the CNAME file
+Add GTM
+Add Favicon
