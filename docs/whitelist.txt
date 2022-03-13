@@ -2,7 +2,7 @@ Whitelist Winners
 Tip 1: Use Control+F to search your wallet.
 Tip 2: Wallets are sorted alphabetically.
 Tip 3: Some people sent the wallet with some letters changed ("a" instead of "A"). So in addition to searching, take a look alphabetically
-Tip 4: After 24 hours (from Mar 12th - 12 UTC), if not sold out, everyone can buy.
+Tip 4: After 24 hours (from Mar 13th - 12 UTC), if not sold out, everyone can buy.
 
 0xF7A13273929a61077D09e8365De2F61c8A381C13
 0x5e4cb298C7ED72796D4e5e76aE7B33f3C158E809
