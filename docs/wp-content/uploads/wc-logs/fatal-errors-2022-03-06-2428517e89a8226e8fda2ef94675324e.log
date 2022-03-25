@@ -1,0 +1,7 @@
+2022-03-06T20:54:13+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to LE_ACME2\Order::exists() must be an instance of LE_ACME2\Account, bool given, called in C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\class-letsencrypt-handler.php on line 763 and defined in C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\vendor\fbett\le_acme2\src\LE_ACME2\Order.php:112
+Stack trace:
+#0 C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\class-letsencrypt-handler.php(763): LE_ACME2\Order::exists(false, Array)
+#1 C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\class-letsencrypt-handler.php(608): rsssl_letsencrypt_handler->get_order()
+#2 C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\cron.php(66): rsssl_letsencrypt_handler->create_bundle_or_renew()
+#3 C:\Users\Joao\Local , em C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\vendor\fbett\le_acme2\src\LE_ACME2\Order.php, na linha 112
+

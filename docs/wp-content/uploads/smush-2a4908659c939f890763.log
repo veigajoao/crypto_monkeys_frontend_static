@@ -1,0 +1,1164 @@
+[2022-03-03 08:03:11 : INFO] - Re_Smush_It_Task with attachment ID : 1670, autocreated on : March 03, 2022 08:03:11 
+[2022-03-03 08:03:13 : INFO] - Re_Smush_It_Task with attachment ID : 1671, autocreated on : March 03, 2022 08:03:13 
+[2022-03-03 08:03:14 : INFO] - Re_Smush_It_Task with attachment ID : 1672, autocreated on : March 03, 2022 08:03:14 
+[2022-03-03 08:03:15 : INFO] - Re_Smush_It_Task with attachment ID : 1673, autocreated on : March 03, 2022 08:03:15 
+[2022-03-03 08:03:16 : INFO] - Re_Smush_It_Task with attachment ID : 1674, autocreated on : March 03, 2022 08:03:16 
+[2022-03-03 08:03:17 : INFO] - Re_Smush_It_Task with attachment ID : 1675, autocreated on : March 03, 2022 08:03:17 
+[2022-03-03 08:03:18 : INFO] - Re_Smush_It_Task with attachment ID : 1676, autocreated on : March 03, 2022 08:03:18 
+[2022-03-03 08:03:19 : INFO] - Re_Smush_It_Task with attachment ID : 1677, autocreated on : March 03, 2022 08:03:19 
+[2022-03-03 08:03:20 : INFO] - Re_Smush_It_Task with attachment ID : 1678, autocreated on : March 03, 2022 08:03:20 
+[2022-03-03 08:03:21 : INFO] - Re_Smush_It_Task with attachment ID : 1679, autocreated on : March 03, 2022 08:03:21 
+[2022-03-03 08:03:22 : INFO] - Re_Smush_It_Task with attachment ID : 1680, autocreated on : March 03, 2022 08:03:22 
+[2022-03-03 08:08:59 : INFO] - 
+ 
+[2022-03-03 08:08:59 : INFO] - Header for logs at time:  Thu, 03 Mar 2022 08:08:59 +0000 on http://newcryptomonkeyslp.local 
+[2022-03-03 08:08:59 : INFO] - WP: 5.9.1 
+[2022-03-03 08:08:59 : INFO] - PHP: 7.4.1 (cgi-fcgi, Windows NT LAPTOP-C6PJKMM6 10.0 build 22000 (Windows 10) AMD64) 
+[2022-03-03 08:08:59 : INFO] - MySQL: 8.0.16 
+[2022-03-03 08:08:59 : INFO] - WPLANG: pt_BR 
+[2022-03-03 08:08:59 : INFO] - Server: nginx/1.16.0 
+[2022-03-03 08:08:59 : INFO] - Outbound connections: N 
+[2022-03-03 08:08:59 : INFO] - safe_mode: 0 
+[2022-03-03 08:08:59 : INFO] - max_execution_time: 1200 
+[2022-03-03 08:08:59 : INFO] - memory_limit: 256M (used: 19.2M | 2M) 
+[2022-03-03 08:08:59 : INFO] - multisite: N 
+[2022-03-03 08:08:59 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2022-03-03 08:08:59 : INFO] - A total of 11 tasks of type smush found and will be processed in this iteration 
+[2022-03-03 08:08:59 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-03-03 08:08:59 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-03-03 08:08:59 : INFO] - Processing task with ID : 216, and type 'smush' 
+[2022-03-03 08:08:59 : INFO] - Task with ID 216 and type (smush) failed with error code exceeded_max_filesize - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/a.mp4 - cannot be optimized, file size is above service provider limit 
+[2022-03-03 08:08:59 : INFO] - Processing task with ID : 217, and type 'smush' 
+[2022-03-03 08:08:59 : INFO] - Task with ID 217 and type (smush) failed with error code exceeded_max_filesize - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/b.mp4 - cannot be optimized, file size is above service provider limit 
+[2022-03-03 08:08:59 : INFO] - Processing task with ID : 218, and type 'smush' 
+[2022-03-03 08:08:59 : INFO] - Task with ID 218 and type (smush) failed with error code exceeded_max_filesize - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/c.mp4 - cannot be optimized, file size is above service provider limit 
+[2022-03-03 08:08:59 : INFO] - Processing task with ID : 219, and type 'smush' 
+[2022-03-03 08:08:59 : INFO] - Task with ID 219 and type (smush) failed with error code exceeded_max_filesize - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/d.mp4 - cannot be optimized, file size is above service provider limit 
+[2022-03-03 08:08:59 : INFO] - Processing task with ID : 220, and type 'smush' 
+[2022-03-03 08:08:59 : INFO] - Task with ID 220 and type (smush) failed with error code exceeded_max_filesize - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/e.mp4 - cannot be optimized, file size is above service provider limit 
+[2022-03-03 08:08:59 : INFO] - Processing task with ID : 221, and type 'smush' 
+[2022-03-03 08:08:59 : INFO] - Task with ID 221 and type (smush) failed with error code exceeded_max_filesize - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/f.mp4 - cannot be optimized, file size is above service provider limit 
+[2022-03-03 08:08:59 : INFO] - Processing task with ID : 222, and type 'smush' 
+[2022-03-03 08:08:59 : INFO] - Task with ID 222 and type (smush) failed with error code exceeded_max_filesize - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/g.mp4 - cannot be optimized, file size is above service provider limit 
+[2022-03-03 08:08:59 : INFO] - Processing task with ID : 223, and type 'smush' 
+[2022-03-03 08:08:59 : INFO] - Task with ID 223 and type (smush) failed with error code exceeded_max_filesize - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/h.mp4 - cannot be optimized, file size is above service provider limit 
+[2022-03-03 08:08:59 : INFO] - Processing task with ID : 224, and type 'smush' 
+[2022-03-03 08:08:59 : INFO] - Task with ID 224 and type (smush) failed with error code exceeded_max_filesize - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/i.mp4 - cannot be optimized, file size is above service provider limit 
+[2022-03-03 08:08:59 : INFO] - Processing task with ID : 225, and type 'smush' 
+[2022-03-03 08:08:59 : INFO] - Task with ID 225 and type (smush) failed with error code exceeded_max_filesize - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/j.mp4 - cannot be optimized, file size is above service provider limit 
+[2022-03-03 08:08:59 : INFO] - Processing task with ID : 226, and type 'smush' 
+[2022-03-03 08:08:59 : INFO] - Task with ID 226 and type (smush) failed with error code exceeded_max_filesize - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/k.mp4 - cannot be optimized, file size is above service provider limit 
+[2022-03-03 08:08:59 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-03-03 08:08:59 : INFO] - Successfully processed the queue (smush). 11 tasks were processed out of 11. 
+[2022-03-03 08:08:59 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-03-03 08:08:59 : INFO] - Cleaning up tasks of type (smush). A total of 11 tasks will be deleted. 
+[2022-03-03 08:19:04 : INFO] - 
+ 
+[2022-03-03 08:19:04 : INFO] - Header for logs at time:  Thu, 03 Mar 2022 08:19:04 +0000 on http://newcryptomonkeyslp.local 
+[2022-03-03 08:19:04 : INFO] - WP: 5.9.1 
+[2022-03-03 08:19:04 : INFO] - PHP: 7.4.1 (cgi-fcgi, Windows NT LAPTOP-C6PJKMM6 10.0 build 22000 (Windows 10) AMD64) 
+[2022-03-03 08:19:04 : INFO] - MySQL: 8.0.16 
+[2022-03-03 08:19:04 : INFO] - WPLANG: pt_BR 
+[2022-03-03 08:19:04 : INFO] - Server: nginx/1.16.0 
+[2022-03-03 08:19:04 : INFO] - Outbound connections: N 
+[2022-03-03 08:19:04 : INFO] - safe_mode: 0 
+[2022-03-03 08:19:04 : INFO] - max_execution_time: 1200 
+[2022-03-03 08:19:04 : INFO] - memory_limit: 256M (used: 19M | 2M) 
+[2022-03-03 08:19:04 : INFO] - multisite: N 
+[2022-03-03 08:19:04 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2022-03-03 08:19:04 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-03-04 17:50:20 : INFO] - Re_Smush_It_Task with attachment ID : 1714, autocreated on : March 04, 2022 05:50:19 
+[2022-03-04 17:55:39 : INFO] - 
+ 
+[2022-03-04 17:55:39 : INFO] - Header for logs at time:  Fri, 04 Mar 2022 17:55:39 +0000 on https://newcryptomonkeyslp.local 
+[2022-03-04 17:55:39 : INFO] - WP: 5.9.1 
+[2022-03-04 17:55:39 : INFO] - PHP: 7.4.1 (cgi-fcgi, Windows NT LAPTOP-C6PJKMM6 10.0 build 22000 (Windows 10) AMD64) 
+[2022-03-04 17:55:39 : INFO] - MySQL: 8.0.16 
+[2022-03-04 17:55:39 : INFO] - WPLANG: pt_BR 
+[2022-03-04 17:55:39 : INFO] - Server: nginx/1.16.0 
+[2022-03-04 17:55:39 : INFO] - Outbound connections: N 
+[2022-03-04 17:55:39 : INFO] - safe_mode: 0 
+[2022-03-04 17:55:39 : INFO] - max_execution_time: 86400 
+[2022-03-04 17:55:39 : INFO] - memory_limit: 30240M (used: 20.3M | 2M) 
+[2022-03-04 17:55:39 : INFO] - multisite: N 
+[2022-03-04 17:55:39 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2022-03-04 17:55:39 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-03-04 17:55:39 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-03-04 17:55:39 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-03-04 17:55:39 : INFO] - Processing task with ID : 227, and type 'smush' 
+[2022-03-04 17:55:39 : INFO] - Re_Smush_It_Task with attachment ID : 1714, autocreated on : March 04, 2022 05:50:19 
+[2022-03-04 17:55:39 : INFO] - 100 
+[2022-03-04 17:55:45 : INFO] - Backing up the original image - 2022/03/124716-updraft-pre-smush-original.png 
+[2022-03-04 17:55:45 : INFO] - Re_Smush_It_Task with attachment ID : 1714, autocreated on : March 04, 2022 05:50:19 
+[2022-03-04 17:55:45 : INFO] - 100 
+[2022-03-04 17:55:47 : INFO] - Re_Smush_It_Task with attachment ID : 1714, autocreated on : March 04, 2022 05:50:19 
+[2022-03-04 17:55:47 : INFO] - 100 
+[2022-03-04 17:55:49 : INFO] - Re_Smush_It_Task with attachment ID : 1714, autocreated on : March 04, 2022 05:50:19 
+[2022-03-04 17:55:49 : INFO] - 100 
+[2022-03-04 17:55:51 : INFO] - Re_Smush_It_Task with attachment ID : 1714, autocreated on : March 04, 2022 05:50:19 
+[2022-03-04 17:55:51 : INFO] - 100 
+[2022-03-04 17:55:53 : INFO] - Re_Smush_It_Task with attachment ID : 1714, autocreated on : March 04, 2022 05:50:19 
+[2022-03-04 17:55:53 : INFO] - 100 
+[2022-03-04 17:55:57 : INFO] - Re_Smush_It_Task with attachment ID : 1714, autocreated on : March 04, 2022 05:50:19 
+[2022-03-04 17:55:57 : INFO] - 100 
+[2022-03-04 17:55:59 : INFO] - Re_Smush_It_Task with attachment ID : 1714, autocreated on : March 04, 2022 05:50:19 
+[2022-03-04 17:55:59 : INFO] - 100 
+[2022-03-04 17:56:01 : INFO] - Re_Smush_It_Task with attachment ID : 1714, autocreated on : March 04, 2022 05:50:19 
+[2022-03-04 17:56:01 : INFO] - 100 
+[2022-03-04 17:56:02 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/124716.png.The file was compressed from 295.90 KB to 147.06 KB saving 50.3 percent using WP-Optimize 
+[2022-03-04 17:56:02 : INFO] - Completed processing task with ID : 227, and type 'smush' 
+[2022-03-04 17:56:02 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-03-04 17:56:02 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-03-04 17:56:02 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-03-04 17:56:02 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-03-04 17:56:03 : INFO] - Re_Smush_It_Task with attachment ID : 1716, autocreated on : March 04, 2022 05:56:03 
+[2022-03-04 17:57:28 : INFO] - Re_Smush_It_Task with attachment ID : 1717, autocreated on : March 04, 2022 05:57:28 
+[2022-03-04 18:05:55 : INFO] - 
+ 
+[2022-03-04 18:05:55 : INFO] - Header for logs at time:  Fri, 04 Mar 2022 18:05:55 +0000 on https://newcryptomonkeyslp.local 
+[2022-03-04 18:05:55 : INFO] - WP: 5.9.1 
+[2022-03-04 18:05:55 : INFO] - PHP: 7.4.1 (cgi-fcgi, Windows NT LAPTOP-C6PJKMM6 10.0 build 22000 (Windows 10) AMD64) 
+[2022-03-04 18:05:55 : INFO] - MySQL: 8.0.16 
+[2022-03-04 18:05:55 : INFO] - WPLANG: pt_BR 
+[2022-03-04 18:05:55 : INFO] - Server: nginx/1.16.0 
+[2022-03-04 18:05:55 : INFO] - Outbound connections: N 
+[2022-03-04 18:05:55 : INFO] - safe_mode: 0 
+[2022-03-04 18:05:55 : INFO] - max_execution_time: 86400 
+[2022-03-04 18:05:55 : INFO] - memory_limit: 30240M (used: 20M | 2M) 
+[2022-03-04 18:05:55 : INFO] - multisite: N 
+[2022-03-04 18:05:55 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2022-03-04 18:05:55 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2022-03-04 18:05:55 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-03-04 18:05:55 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-03-04 18:05:55 : INFO] - Processing task with ID : 228, and type 'smush' 
+[2022-03-04 18:05:55 : INFO] - Re_Smush_It_Task with attachment ID : 1716, autocreated on : March 04, 2022 05:56:03 
+[2022-03-04 18:05:55 : INFO] - 100 
+[2022-03-04 18:05:56 : INFO] - Backing up the original image - 2022/03/bd-dark-fade-updraft-pre-smush-original.png 
+[2022-03-04 18:05:56 : INFO] - Re_Smush_It_Task with attachment ID : 1716, autocreated on : March 04, 2022 05:56:03 
+[2022-03-04 18:05:56 : INFO] - 100 
+[2022-03-04 18:05:57 : INFO] - Re_Smush_It_Task with attachment ID : 1716, autocreated on : March 04, 2022 05:56:03 
+[2022-03-04 18:05:57 : INFO] - 100 
+[2022-03-04 18:05:58 : INFO] - Re_Smush_It_Task with attachment ID : 1716, autocreated on : March 04, 2022 05:56:03 
+[2022-03-04 18:05:58 : INFO] - 100 
+[2022-03-04 18:05:59 : INFO] - Re_Smush_It_Task with attachment ID : 1716, autocreated on : March 04, 2022 05:56:03 
+[2022-03-04 18:05:59 : INFO] - 100 
+[2022-03-04 18:06:01 : INFO] - Re_Smush_It_Task with attachment ID : 1716, autocreated on : March 04, 2022 05:56:03 
+[2022-03-04 18:06:01 : INFO] - 100 
+[2022-03-04 18:06:03 : INFO] - Re_Smush_It_Task with attachment ID : 1716, autocreated on : March 04, 2022 05:56:03 
+[2022-03-04 18:06:03 : INFO] - 100 
+[2022-03-04 18:06:04 : INFO] - Re_Smush_It_Task with attachment ID : 1716, autocreated on : March 04, 2022 05:56:03 
+[2022-03-04 18:06:04 : INFO] - 100 
+[2022-03-04 18:06:05 : INFO] - Re_Smush_It_Task with attachment ID : 1716, autocreated on : March 04, 2022 05:56:03 
+[2022-03-04 18:06:05 : INFO] - 100 
+[2022-03-04 18:06:06 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/bd-dark-fade.png.The file was compressed from 10.53 KB to 4.00 KB saving 61.98 percent using WP-Optimize 
+[2022-03-04 18:06:06 : INFO] - Completed processing task with ID : 228, and type 'smush' 
+[2022-03-04 18:06:06 : INFO] - Processing task with ID : 229, and type 'smush' 
+[2022-03-04 18:06:06 : INFO] - Re_Smush_It_Task with attachment ID : 1717, autocreated on : March 04, 2022 05:57:28 
+[2022-03-04 18:06:06 : INFO] - 100 
+[2022-03-04 18:06:14 : INFO] - Backing up the original image - 2022/03/main_monkeys_fade_clearer-updraft-pre-smush-original.png 
+[2022-03-04 18:06:14 : INFO] - Re_Smush_It_Task with attachment ID : 1717, autocreated on : March 04, 2022 05:57:28 
+[2022-03-04 18:06:14 : INFO] - 100 
+[2022-03-04 18:06:16 : INFO] - Re_Smush_It_Task with attachment ID : 1717, autocreated on : March 04, 2022 05:57:28 
+[2022-03-04 18:06:16 : INFO] - 100 
+[2022-03-04 18:06:22 : INFO] - Re_Smush_It_Task with attachment ID : 1717, autocreated on : March 04, 2022 05:57:28 
+[2022-03-04 18:06:22 : INFO] - 100 
+[2022-03-04 18:06:23 : INFO] - Re_Smush_It_Task with attachment ID : 1717, autocreated on : March 04, 2022 05:57:28 
+[2022-03-04 18:06:23 : INFO] - 100 
+[2022-03-04 18:06:31 : INFO] - Re_Smush_It_Task with attachment ID : 1717, autocreated on : March 04, 2022 05:57:28 
+[2022-03-04 18:06:31 : INFO] - 100 
+[2022-03-04 18:06:35 : INFO] - Re_Smush_It_Task with attachment ID : 1717, autocreated on : March 04, 2022 05:57:28 
+[2022-03-04 18:06:35 : INFO] - 100 
+[2022-03-04 18:06:40 : INFO] - Re_Smush_It_Task with attachment ID : 1717, autocreated on : March 04, 2022 05:57:28 
+[2022-03-04 18:06:40 : INFO] - 100 
+[2022-03-04 18:06:42 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/main_monkeys_fade_clearer.png.The file was compressed from 1,004.68 KB to 250.98 KB saving 75.02 percent using WP-Optimize 
+[2022-03-04 18:06:42 : INFO] - Completed processing task with ID : 229, and type 'smush' 
+[2022-03-04 18:06:42 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-03-04 18:06:42 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2022-03-04 18:06:42 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-03-04 18:06:42 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2022-03-04 18:16:03 : INFO] - 
+ 
+[2022-03-04 18:16:03 : INFO] - Header for logs at time:  Fri, 04 Mar 2022 18:16:03 +0000 on https://newcryptomonkeyslp.local 
+[2022-03-04 18:16:03 : INFO] - WP: 5.9.1 
+[2022-03-04 18:16:03 : INFO] - PHP: 7.4.1 (cgi-fcgi, Windows NT LAPTOP-C6PJKMM6 10.0 build 22000 (Windows 10) AMD64) 
+[2022-03-04 18:16:03 : INFO] - MySQL: 8.0.16 
+[2022-03-04 18:16:03 : INFO] - WPLANG: pt_BR 
+[2022-03-04 18:16:03 : INFO] - Server: nginx/1.16.0 
+[2022-03-04 18:16:03 : INFO] - Outbound connections: N 
+[2022-03-04 18:16:03 : INFO] - safe_mode: 0 
+[2022-03-04 18:16:03 : INFO] - max_execution_time: 86400 
+[2022-03-04 18:16:03 : INFO] - memory_limit: 30240M (used: 20M | 2M) 
+[2022-03-04 18:16:03 : INFO] - multisite: N 
+[2022-03-04 18:16:03 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2022-03-04 18:16:03 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-03-04 18:41:47 : INFO] - Re_Smush_It_Task with attachment ID : 1718, autocreated on : March 04, 2022 06:41:47 
+[2022-03-04 18:43:23 : INFO] - Re_Smush_It_Task with attachment ID : 1719, autocreated on : March 04, 2022 06:43:23 
+[2022-03-04 18:43:25 : INFO] - Re_Smush_It_Task with attachment ID : 1720, autocreated on : March 04, 2022 06:43:25 
+[2022-03-04 18:43:27 : INFO] - Re_Smush_It_Task with attachment ID : 1721, autocreated on : March 04, 2022 06:43:27 
+[2022-03-04 18:43:29 : INFO] - Re_Smush_It_Task with attachment ID : 1722, autocreated on : March 04, 2022 06:43:28 
+[2022-03-04 18:43:30 : INFO] - Re_Smush_It_Task with attachment ID : 1723, autocreated on : March 04, 2022 06:43:30 
+[2022-03-04 18:43:32 : INFO] - Re_Smush_It_Task with attachment ID : 1724, autocreated on : March 04, 2022 06:43:32 
+[2022-03-04 18:43:34 : INFO] - Re_Smush_It_Task with attachment ID : 1725, autocreated on : March 04, 2022 06:43:33 
+[2022-03-04 18:43:35 : INFO] - Re_Smush_It_Task with attachment ID : 1726, autocreated on : March 04, 2022 06:43:35 
+[2022-03-04 18:43:37 : INFO] - Re_Smush_It_Task with attachment ID : 1727, autocreated on : March 04, 2022 06:43:37 
+[2022-03-04 18:43:39 : INFO] - Re_Smush_It_Task with attachment ID : 1728, autocreated on : March 04, 2022 06:43:39 
+[2022-03-04 18:43:41 : INFO] - Re_Smush_It_Task with attachment ID : 1729, autocreated on : March 04, 2022 06:43:41 
+[2022-03-04 18:43:44 : INFO] - Re_Smush_It_Task with attachment ID : 1730, autocreated on : March 04, 2022 06:43:43 
+[2022-03-04 18:43:46 : INFO] - Re_Smush_It_Task with attachment ID : 1731, autocreated on : March 04, 2022 06:43:46 
+[2022-03-04 18:43:47 : INFO] - Re_Smush_It_Task with attachment ID : 1732, autocreated on : March 04, 2022 06:43:47 
+[2022-03-04 18:43:50 : INFO] - Re_Smush_It_Task with attachment ID : 1733, autocreated on : March 04, 2022 06:43:50 
+[2022-03-04 18:43:52 : INFO] - Re_Smush_It_Task with attachment ID : 1734, autocreated on : March 04, 2022 06:43:52 
+[2022-03-04 18:43:54 : INFO] - Re_Smush_It_Task with attachment ID : 1735, autocreated on : March 04, 2022 06:43:54 
+[2022-03-04 18:43:56 : INFO] - Re_Smush_It_Task with attachment ID : 1736, autocreated on : March 04, 2022 06:43:56 
+[2022-03-04 18:43:58 : INFO] - Re_Smush_It_Task with attachment ID : 1737, autocreated on : March 04, 2022 06:43:58 
+[2022-03-04 18:44:00 : INFO] - Re_Smush_It_Task with attachment ID : 1738, autocreated on : March 04, 2022 06:44:00 
+[2022-03-04 18:44:02 : INFO] - Re_Smush_It_Task with attachment ID : 1739, autocreated on : March 04, 2022 06:44:02 
+[2022-03-04 18:44:04 : INFO] - Re_Smush_It_Task with attachment ID : 1740, autocreated on : March 04, 2022 06:44:04 
+[2022-03-04 18:44:06 : INFO] - Re_Smush_It_Task with attachment ID : 1741, autocreated on : March 04, 2022 06:44:06 
+[2022-03-04 18:46:56 : INFO] - 
+ 
+[2022-03-04 18:46:56 : INFO] - Header for logs at time:  Fri, 04 Mar 2022 18:46:56 +0000 on https://newcryptomonkeyslp.local 
+[2022-03-04 18:46:56 : INFO] - WP: 5.9.1 
+[2022-03-04 18:46:56 : INFO] - PHP: 7.4.1 (cgi-fcgi, Windows NT LAPTOP-C6PJKMM6 10.0 build 22000 (Windows 10) AMD64) 
+[2022-03-04 18:46:56 : INFO] - MySQL: 8.0.16 
+[2022-03-04 18:46:56 : INFO] - WPLANG: pt_BR 
+[2022-03-04 18:46:56 : INFO] - Server: nginx/1.16.0 
+[2022-03-04 18:46:56 : INFO] - Outbound connections: N 
+[2022-03-04 18:46:56 : INFO] - safe_mode: 0 
+[2022-03-04 18:46:56 : INFO] - max_execution_time: 86400 
+[2022-03-04 18:46:56 : INFO] - memory_limit: 30240M (used: 20M | 2M) 
+[2022-03-04 18:46:56 : INFO] - multisite: N 
+[2022-03-04 18:46:56 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2022-03-04 18:46:56 : INFO] - A total of 24 tasks of type smush found and will be processed in this iteration 
+[2022-03-04 18:46:56 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-03-04 18:46:56 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-03-04 18:46:56 : INFO] - Processing task with ID : 230, and type 'smush' 
+[2022-03-04 18:46:56 : INFO] - Re_Smush_It_Task with attachment ID : 1718, autocreated on : March 04, 2022 06:41:47 
+[2022-03-04 18:46:56 : INFO] - 100 
+[2022-03-04 18:46:57 : INFO] - Backing up the original image - 2022/03/BARRA-1-updraft-pre-smush-original.png 
+[2022-03-04 18:46:57 : INFO] - Re_Smush_It_Task with attachment ID : 1718, autocreated on : March 04, 2022 06:41:47 
+[2022-03-04 18:46:57 : INFO] - 100 
+[2022-03-04 18:46:58 : INFO] - Re_Smush_It_Task with attachment ID : 1718, autocreated on : March 04, 2022 06:41:47 
+[2022-03-04 18:46:58 : INFO] - 100 
+[2022-03-04 18:46:59 : INFO] - Re_Smush_It_Task with attachment ID : 1718, autocreated on : March 04, 2022 06:41:47 
+[2022-03-04 18:46:59 : INFO] - 100 
+[2022-03-04 18:47:00 : INFO] - Re_Smush_It_Task with attachment ID : 1718, autocreated on : March 04, 2022 06:41:47 
+[2022-03-04 18:47:00 : INFO] - 100 
+[2022-03-04 18:47:01 : INFO] - Re_Smush_It_Task with attachment ID : 1718, autocreated on : March 04, 2022 06:41:47 
+[2022-03-04 18:47:01 : INFO] - 100 
+[2022-03-04 18:47:03 : INFO] - Re_Smush_It_Task with attachment ID : 1718, autocreated on : March 04, 2022 06:41:47 
+[2022-03-04 18:47:03 : INFO] - 100 
+[2022-03-04 18:47:04 : INFO] - Re_Smush_It_Task with attachment ID : 1718, autocreated on : March 04, 2022 06:41:47 
+[2022-03-04 18:47:04 : INFO] - 100 
+[2022-03-04 18:47:05 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/BARRA-1.png.The file was compressed from 2.95 KB to 2.20 KB saving 25.27 percent using WP-Optimize 
+[2022-03-04 18:47:05 : INFO] - Completed processing task with ID : 230, and type 'smush' 
+[2022-03-04 18:47:05 : INFO] - Processing task with ID : 231, and type 'smush' 
+[2022-03-04 18:47:05 : INFO] - Re_Smush_It_Task with attachment ID : 1719, autocreated on : March 04, 2022 06:43:23 
+[2022-03-04 18:47:05 : INFO] - 100 
+[2022-03-04 18:47:06 : INFO] - Backing up the original image - 2022/03/BARRA-2-updraft-pre-smush-original.png 
+[2022-03-04 18:47:06 : INFO] - Re_Smush_It_Task with attachment ID : 1719, autocreated on : March 04, 2022 06:43:23 
+[2022-03-04 18:47:06 : INFO] - 100 
+[2022-03-04 18:47:07 : INFO] - Re_Smush_It_Task with attachment ID : 1719, autocreated on : March 04, 2022 06:43:23 
+[2022-03-04 18:47:07 : INFO] - 100 
+[2022-03-04 18:47:08 : INFO] - Re_Smush_It_Task with attachment ID : 1719, autocreated on : March 04, 2022 06:43:23 
+[2022-03-04 18:47:08 : INFO] - 100 
+[2022-03-04 18:47:09 : INFO] - Re_Smush_It_Task with attachment ID : 1719, autocreated on : March 04, 2022 06:43:23 
+[2022-03-04 18:47:09 : INFO] - 100 
+[2022-03-04 18:47:11 : INFO] - Re_Smush_It_Task with attachment ID : 1719, autocreated on : March 04, 2022 06:43:23 
+[2022-03-04 18:47:11 : INFO] - 100 
+[2022-03-04 18:47:12 : INFO] - Re_Smush_It_Task with attachment ID : 1719, autocreated on : March 04, 2022 06:43:23 
+[2022-03-04 18:47:12 : INFO] - 100 
+[2022-03-04 18:47:13 : INFO] - Re_Smush_It_Task with attachment ID : 1719, autocreated on : March 04, 2022 06:43:23 
+[2022-03-04 18:47:13 : INFO] - 100 
+[2022-03-04 18:47:14 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/BARRA-2.png.The file was compressed from 3.58 KB to 2.54 KB saving 29.19 percent using WP-Optimize 
+[2022-03-04 18:47:14 : INFO] - Completed processing task with ID : 231, and type 'smush' 
+[2022-03-04 18:47:14 : INFO] - Processing task with ID : 232, and type 'smush' 
+[2022-03-04 18:47:14 : INFO] - Re_Smush_It_Task with attachment ID : 1720, autocreated on : March 04, 2022 06:43:25 
+[2022-03-04 18:47:14 : INFO] - 100 
+[2022-03-04 18:47:15 : INFO] - Backing up the original image - 2022/03/BARRA-3-updraft-pre-smush-original.png 
+[2022-03-04 18:47:15 : INFO] - Re_Smush_It_Task with attachment ID : 1720, autocreated on : March 04, 2022 06:43:25 
+[2022-03-04 18:47:15 : INFO] - 100 
+[2022-03-04 18:47:16 : INFO] - Re_Smush_It_Task with attachment ID : 1720, autocreated on : March 04, 2022 06:43:25 
+[2022-03-04 18:47:16 : INFO] - 100 
+[2022-03-04 18:47:17 : INFO] - Re_Smush_It_Task with attachment ID : 1720, autocreated on : March 04, 2022 06:43:25 
+[2022-03-04 18:47:17 : INFO] - 100 
+[2022-03-04 18:47:18 : INFO] - Re_Smush_It_Task with attachment ID : 1720, autocreated on : March 04, 2022 06:43:25 
+[2022-03-04 18:47:18 : INFO] - 100 
+[2022-03-04 18:47:20 : INFO] - Re_Smush_It_Task with attachment ID : 1720, autocreated on : March 04, 2022 06:43:25 
+[2022-03-04 18:47:20 : INFO] - 100 
+[2022-03-04 18:47:21 : INFO] - Re_Smush_It_Task with attachment ID : 1720, autocreated on : March 04, 2022 06:43:25 
+[2022-03-04 18:47:21 : INFO] - 100 
+[2022-03-04 18:47:22 : INFO] - Re_Smush_It_Task with attachment ID : 1720, autocreated on : March 04, 2022 06:43:25 
+[2022-03-04 18:47:22 : INFO] - 100 
+[2022-03-04 18:47:23 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/BARRA-3.png.The file was compressed from 2.18 KB to 1.78 KB saving 18.41 percent using WP-Optimize 
+[2022-03-04 18:47:23 : INFO] - Completed processing task with ID : 232, and type 'smush' 
+[2022-03-04 18:47:23 : INFO] - Processing task with ID : 233, and type 'smush' 
+[2022-03-04 18:47:23 : INFO] - Re_Smush_It_Task with attachment ID : 1721, autocreated on : March 04, 2022 06:43:27 
+[2022-03-04 18:47:23 : INFO] - 100 
+[2022-03-04 18:47:24 : INFO] - Backing up the original image - 2022/03/BARRA-4-updraft-pre-smush-original.png 
+[2022-03-04 18:47:24 : INFO] - Re_Smush_It_Task with attachment ID : 1721, autocreated on : March 04, 2022 06:43:27 
+[2022-03-04 18:47:24 : INFO] - 100 
+[2022-03-04 18:47:25 : INFO] - Re_Smush_It_Task with attachment ID : 1721, autocreated on : March 04, 2022 06:43:27 
+[2022-03-04 18:47:25 : INFO] - 100 
+[2022-03-04 18:47:26 : INFO] - Re_Smush_It_Task with attachment ID : 1721, autocreated on : March 04, 2022 06:43:27 
+[2022-03-04 18:47:26 : INFO] - 100 
+[2022-03-04 18:47:28 : INFO] - Re_Smush_It_Task with attachment ID : 1721, autocreated on : March 04, 2022 06:43:27 
+[2022-03-04 18:47:28 : INFO] - 100 
+[2022-03-04 18:47:29 : INFO] - Re_Smush_It_Task with attachment ID : 1721, autocreated on : March 04, 2022 06:43:27 
+[2022-03-04 18:47:29 : INFO] - 100 
+[2022-03-04 18:47:30 : INFO] - Re_Smush_It_Task with attachment ID : 1721, autocreated on : March 04, 2022 06:43:27 
+[2022-03-04 18:47:30 : INFO] - 100 
+[2022-03-04 18:47:31 : INFO] - Re_Smush_It_Task with attachment ID : 1721, autocreated on : March 04, 2022 06:43:27 
+[2022-03-04 18:47:31 : INFO] - 100 
+[2022-03-04 18:47:32 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/BARRA-4.png.The file was compressed from 2.13 KB to 1.71 KB saving 19.66 percent using WP-Optimize 
+[2022-03-04 18:47:32 : INFO] - Completed processing task with ID : 233, and type 'smush' 
+[2022-03-04 18:47:32 : INFO] - Processing task with ID : 234, and type 'smush' 
+[2022-03-04 18:47:32 : INFO] - Re_Smush_It_Task with attachment ID : 1722, autocreated on : March 04, 2022 06:43:28 
+[2022-03-04 18:47:32 : INFO] - 100 
+[2022-03-04 18:47:33 : INFO] - Backing up the original image - 2022/03/BARRA-5-updraft-pre-smush-original.png 
+[2022-03-04 18:47:33 : INFO] - Re_Smush_It_Task with attachment ID : 1722, autocreated on : March 04, 2022 06:43:28 
+[2022-03-04 18:47:33 : INFO] - 100 
+[2022-03-04 18:47:34 : INFO] - Re_Smush_It_Task with attachment ID : 1722, autocreated on : March 04, 2022 06:43:28 
+[2022-03-04 18:47:34 : INFO] - 100 
+[2022-03-04 18:47:35 : INFO] - Re_Smush_It_Task with attachment ID : 1722, autocreated on : March 04, 2022 06:43:28 
+[2022-03-04 18:47:35 : INFO] - 100 
+[2022-03-04 18:47:36 : INFO] - Re_Smush_It_Task with attachment ID : 1722, autocreated on : March 04, 2022 06:43:28 
+[2022-03-04 18:47:36 : INFO] - 100 
+[2022-03-04 18:47:38 : INFO] - Re_Smush_It_Task with attachment ID : 1722, autocreated on : March 04, 2022 06:43:28 
+[2022-03-04 18:47:38 : INFO] - 100 
+[2022-03-04 18:47:39 : INFO] - Re_Smush_It_Task with attachment ID : 1722, autocreated on : March 04, 2022 06:43:28 
+[2022-03-04 18:47:39 : INFO] - 100 
+[2022-03-04 18:47:40 : INFO] - Re_Smush_It_Task with attachment ID : 1722, autocreated on : March 04, 2022 06:43:28 
+[2022-03-04 18:47:40 : INFO] - 100 
+[2022-03-04 18:47:41 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/BARRA-5.png.The file was compressed from 2.33 KB to 1.80 KB saving 22.74 percent using WP-Optimize 
+[2022-03-04 18:47:41 : INFO] - Completed processing task with ID : 234, and type 'smush' 
+[2022-03-04 18:47:41 : INFO] - Processing task with ID : 235, and type 'smush' 
+[2022-03-04 18:47:41 : INFO] - Re_Smush_It_Task with attachment ID : 1723, autocreated on : March 04, 2022 06:43:30 
+[2022-03-04 18:47:41 : INFO] - 100 
+[2022-03-04 18:47:42 : INFO] - Backing up the original image - 2022/03/BARRA-6-updraft-pre-smush-original.png 
+[2022-03-04 18:47:42 : INFO] - Re_Smush_It_Task with attachment ID : 1723, autocreated on : March 04, 2022 06:43:30 
+[2022-03-04 18:47:42 : INFO] - 100 
+[2022-03-04 18:47:43 : INFO] - Re_Smush_It_Task with attachment ID : 1723, autocreated on : March 04, 2022 06:43:30 
+[2022-03-04 18:47:43 : INFO] - 100 
+[2022-03-04 18:47:44 : INFO] - Re_Smush_It_Task with attachment ID : 1723, autocreated on : March 04, 2022 06:43:30 
+[2022-03-04 18:47:44 : INFO] - 100 
+[2022-03-04 18:47:46 : INFO] - Re_Smush_It_Task with attachment ID : 1723, autocreated on : March 04, 2022 06:43:30 
+[2022-03-04 18:47:46 : INFO] - 100 
+[2022-03-04 18:47:47 : INFO] - Re_Smush_It_Task with attachment ID : 1723, autocreated on : March 04, 2022 06:43:30 
+[2022-03-04 18:47:47 : INFO] - 100 
+[2022-03-04 18:47:48 : INFO] - Re_Smush_It_Task with attachment ID : 1723, autocreated on : March 04, 2022 06:43:30 
+[2022-03-04 18:47:48 : INFO] - 100 
+[2022-03-04 18:47:49 : INFO] - Re_Smush_It_Task with attachment ID : 1723, autocreated on : March 04, 2022 06:43:30 
+[2022-03-04 18:47:49 : INFO] - 100 
+[2022-03-04 18:47:50 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/BARRA-6.png.The file was compressed from 2.27 KB to 1.80 KB saving 20.78 percent using WP-Optimize 
+[2022-03-04 18:47:50 : INFO] - Completed processing task with ID : 235, and type 'smush' 
+[2022-03-04 18:47:50 : INFO] - Processing task with ID : 236, and type 'smush' 
+[2022-03-04 18:47:50 : INFO] - Re_Smush_It_Task with attachment ID : 1724, autocreated on : March 04, 2022 06:43:32 
+[2022-03-04 18:47:50 : INFO] - 100 
+[2022-03-04 18:47:51 : INFO] - Backing up the original image - 2022/03/BARRA-7-updraft-pre-smush-original.png 
+[2022-03-04 18:47:51 : INFO] - Re_Smush_It_Task with attachment ID : 1724, autocreated on : March 04, 2022 06:43:32 
+[2022-03-04 18:47:51 : INFO] - 100 
+[2022-03-04 18:47:52 : INFO] - Re_Smush_It_Task with attachment ID : 1724, autocreated on : March 04, 2022 06:43:32 
+[2022-03-04 18:47:52 : INFO] - 100 
+[2022-03-04 18:47:53 : INFO] - Re_Smush_It_Task with attachment ID : 1724, autocreated on : March 04, 2022 06:43:32 
+[2022-03-04 18:47:53 : INFO] - 100 
+[2022-03-04 18:47:55 : INFO] - Re_Smush_It_Task with attachment ID : 1724, autocreated on : March 04, 2022 06:43:32 
+[2022-03-04 18:47:55 : INFO] - 100 
+[2022-03-04 18:47:56 : INFO] - Re_Smush_It_Task with attachment ID : 1724, autocreated on : March 04, 2022 06:43:32 
+[2022-03-04 18:47:56 : INFO] - 100 
+[2022-03-04 18:47:57 : INFO] - Re_Smush_It_Task with attachment ID : 1724, autocreated on : March 04, 2022 06:43:32 
+[2022-03-04 18:47:57 : INFO] - 100 
+[2022-03-04 18:47:58 : INFO] - Re_Smush_It_Task with attachment ID : 1724, autocreated on : March 04, 2022 06:43:32 
+[2022-03-04 18:47:58 : INFO] - 100 
+[2022-03-04 18:47:59 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/BARRA-7.png.The file was compressed from 2.31 KB to 1.78 KB saving 23.05 percent using WP-Optimize 
+[2022-03-04 18:47:59 : INFO] - Completed processing task with ID : 236, and type 'smush' 
+[2022-03-04 18:47:59 : INFO] - Processing task with ID : 237, and type 'smush' 
+[2022-03-04 18:47:59 : INFO] - Re_Smush_It_Task with attachment ID : 1725, autocreated on : March 04, 2022 06:43:33 
+[2022-03-04 18:47:59 : INFO] - 100 
+[2022-03-04 18:48:00 : INFO] - Backing up the original image - 2022/03/BARRA-8-updraft-pre-smush-original.png 
+[2022-03-04 18:48:00 : INFO] - Re_Smush_It_Task with attachment ID : 1725, autocreated on : March 04, 2022 06:43:33 
+[2022-03-04 18:48:00 : INFO] - 100 
+[2022-03-04 18:48:01 : INFO] - Re_Smush_It_Task with attachment ID : 1725, autocreated on : March 04, 2022 06:43:33 
+[2022-03-04 18:48:01 : INFO] - 100 
+[2022-03-04 18:48:02 : INFO] - Re_Smush_It_Task with attachment ID : 1725, autocreated on : March 04, 2022 06:43:33 
+[2022-03-04 18:48:02 : INFO] - 100 
+[2022-03-04 18:48:03 : INFO] - Re_Smush_It_Task with attachment ID : 1725, autocreated on : March 04, 2022 06:43:33 
+[2022-03-04 18:48:03 : INFO] - 100 
+[2022-03-04 18:48:05 : INFO] - Re_Smush_It_Task with attachment ID : 1725, autocreated on : March 04, 2022 06:43:33 
+[2022-03-04 18:48:05 : INFO] - 100 
+[2022-03-04 18:48:06 : INFO] - Re_Smush_It_Task with attachment ID : 1725, autocreated on : March 04, 2022 06:43:33 
+[2022-03-04 18:48:06 : INFO] - 100 
+[2022-03-04 18:48:07 : INFO] - Re_Smush_It_Task with attachment ID : 1725, autocreated on : March 04, 2022 06:43:33 
+[2022-03-04 18:48:07 : INFO] - 100 
+[2022-03-04 18:48:08 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/BARRA-8.png.The file was compressed from 1.28 KB to 1.05 KB saving 18.03 percent using WP-Optimize 
+[2022-03-04 18:48:08 : INFO] - Completed processing task with ID : 237, and type 'smush' 
+[2022-03-04 18:48:08 : INFO] - Processing task with ID : 238, and type 'smush' 
+[2022-03-04 18:48:08 : INFO] - Re_Smush_It_Task with attachment ID : 1726, autocreated on : March 04, 2022 06:43:35 
+[2022-03-04 18:48:08 : INFO] - 100 
+[2022-03-04 18:48:09 : INFO] - Backing up the original image - 2022/03/BARRA-9-updraft-pre-smush-original.png 
+[2022-03-04 18:48:09 : INFO] - Re_Smush_It_Task with attachment ID : 1726, autocreated on : March 04, 2022 06:43:35 
+[2022-03-04 18:48:09 : INFO] - 100 
+[2022-03-04 18:48:10 : INFO] - Re_Smush_It_Task with attachment ID : 1726, autocreated on : March 04, 2022 06:43:35 
+[2022-03-04 18:48:10 : INFO] - 100 
+[2022-03-04 18:48:11 : INFO] - Re_Smush_It_Task with attachment ID : 1726, autocreated on : March 04, 2022 06:43:35 
+[2022-03-04 18:48:11 : INFO] - 100 
+[2022-03-04 18:48:12 : INFO] - Re_Smush_It_Task with attachment ID : 1726, autocreated on : March 04, 2022 06:43:35 
+[2022-03-04 18:48:12 : INFO] - 100 
+[2022-03-04 18:48:14 : INFO] - Re_Smush_It_Task with attachment ID : 1726, autocreated on : March 04, 2022 06:43:35 
+[2022-03-04 18:48:14 : INFO] - 100 
+[2022-03-04 18:48:15 : INFO] - Re_Smush_It_Task with attachment ID : 1726, autocreated on : March 04, 2022 06:43:35 
+[2022-03-04 18:48:15 : INFO] - 100 
+[2022-03-04 18:48:16 : INFO] - Re_Smush_It_Task with attachment ID : 1726, autocreated on : March 04, 2022 06:43:35 
+[2022-03-04 18:48:16 : INFO] - 100 
+[2022-03-04 18:48:17 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/BARRA-9.png.The file was compressed from 2.14 KB to 1.79 KB saving 16.67 percent using WP-Optimize 
+[2022-03-04 18:48:17 : INFO] - Completed processing task with ID : 238, and type 'smush' 
+[2022-03-04 18:48:17 : INFO] - Processing task with ID : 239, and type 'smush' 
+[2022-03-04 18:48:17 : INFO] - Re_Smush_It_Task with attachment ID : 1727, autocreated on : March 04, 2022 06:43:37 
+[2022-03-04 18:48:17 : INFO] - 100 
+[2022-03-04 18:48:19 : INFO] - Backing up the original image - 2022/03/BARRA-10-updraft-pre-smush-original.png 
+[2022-03-04 18:48:19 : INFO] - Re_Smush_It_Task with attachment ID : 1727, autocreated on : March 04, 2022 06:43:37 
+[2022-03-04 18:48:19 : INFO] - 100 
+[2022-03-04 18:48:20 : INFO] - Re_Smush_It_Task with attachment ID : 1727, autocreated on : March 04, 2022 06:43:37 
+[2022-03-04 18:48:20 : INFO] - 100 
+[2022-03-04 18:48:21 : INFO] - Re_Smush_It_Task with attachment ID : 1727, autocreated on : March 04, 2022 06:43:37 
+[2022-03-04 18:48:21 : INFO] - 100 
+[2022-03-04 18:48:22 : INFO] - Re_Smush_It_Task with attachment ID : 1727, autocreated on : March 04, 2022 06:43:37 
+[2022-03-04 18:48:22 : INFO] - 100 
+[2022-03-04 18:48:24 : INFO] - Re_Smush_It_Task with attachment ID : 1727, autocreated on : March 04, 2022 06:43:37 
+[2022-03-04 18:48:24 : INFO] - 100 
+[2022-03-04 18:48:25 : INFO] - Re_Smush_It_Task with attachment ID : 1727, autocreated on : March 04, 2022 06:43:37 
+[2022-03-04 18:48:25 : INFO] - 100 
+[2022-03-04 18:48:26 : INFO] - Re_Smush_It_Task with attachment ID : 1727, autocreated on : March 04, 2022 06:43:37 
+[2022-03-04 18:48:26 : INFO] - 100 
+[2022-03-04 18:48:27 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/BARRA-10.png.The file was compressed from 14.02 KB to 7.91 KB saving 43.57 percent using WP-Optimize 
+[2022-03-04 18:48:27 : INFO] - Completed processing task with ID : 239, and type 'smush' 
+[2022-03-04 18:48:27 : INFO] - Processing task with ID : 240, and type 'smush' 
+[2022-03-04 18:48:27 : INFO] - Re_Smush_It_Task with attachment ID : 1728, autocreated on : March 04, 2022 06:43:39 
+[2022-03-04 18:48:27 : INFO] - 100 
+[2022-03-04 18:48:29 : INFO] - Backing up the original image - 2022/03/BARRA-11-updraft-pre-smush-original.png 
+[2022-03-04 18:48:29 : INFO] - Re_Smush_It_Task with attachment ID : 1728, autocreated on : March 04, 2022 06:43:39 
+[2022-03-04 18:48:29 : INFO] - 100 
+[2022-03-04 18:48:30 : INFO] - Re_Smush_It_Task with attachment ID : 1728, autocreated on : March 04, 2022 06:43:39 
+[2022-03-04 18:48:30 : INFO] - 100 
+[2022-03-04 18:48:32 : INFO] - Re_Smush_It_Task with attachment ID : 1728, autocreated on : March 04, 2022 06:43:39 
+[2022-03-04 18:48:32 : INFO] - 100 
+[2022-03-04 18:48:33 : INFO] - Re_Smush_It_Task with attachment ID : 1728, autocreated on : March 04, 2022 06:43:39 
+[2022-03-04 18:48:33 : INFO] - 100 
+[2022-03-04 18:48:35 : INFO] - Re_Smush_It_Task with attachment ID : 1728, autocreated on : March 04, 2022 06:43:39 
+[2022-03-04 18:48:35 : INFO] - 100 
+[2022-03-04 18:48:36 : INFO] - Re_Smush_It_Task with attachment ID : 1728, autocreated on : March 04, 2022 06:43:39 
+[2022-03-04 18:48:36 : INFO] - 100 
+[2022-03-04 18:48:37 : INFO] - Re_Smush_It_Task with attachment ID : 1728, autocreated on : March 04, 2022 06:43:39 
+[2022-03-04 18:48:37 : INFO] - 100 
+[2022-03-04 18:48:39 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/BARRA-11.png.The file was compressed from 49.84 KB to 22.45 KB saving 54.96 percent using WP-Optimize 
+[2022-03-04 18:48:39 : INFO] - Completed processing task with ID : 240, and type 'smush' 
+[2022-03-04 18:48:39 : INFO] - Processing task with ID : 241, and type 'smush' 
+[2022-03-04 18:48:39 : INFO] - Re_Smush_It_Task with attachment ID : 1729, autocreated on : March 04, 2022 06:43:41 
+[2022-03-04 18:48:39 : INFO] - 100 
+[2022-03-04 18:48:40 : INFO] - Backing up the original image - 2022/03/BARRA-12-updraft-pre-smush-original.png 
+[2022-03-04 18:48:40 : INFO] - Re_Smush_It_Task with attachment ID : 1729, autocreated on : March 04, 2022 06:43:41 
+[2022-03-04 18:48:40 : INFO] - 100 
+[2022-03-04 18:48:41 : INFO] - Re_Smush_It_Task with attachment ID : 1729, autocreated on : March 04, 2022 06:43:41 
+[2022-03-04 18:48:41 : INFO] - 100 
+[2022-03-04 18:48:43 : INFO] - Re_Smush_It_Task with attachment ID : 1729, autocreated on : March 04, 2022 06:43:41 
+[2022-03-04 18:48:43 : INFO] - 100 
+[2022-03-04 18:48:44 : INFO] - Re_Smush_It_Task with attachment ID : 1729, autocreated on : March 04, 2022 06:43:41 
+[2022-03-04 18:48:44 : INFO] - 100 
+[2022-03-04 18:48:46 : INFO] - Re_Smush_It_Task with attachment ID : 1729, autocreated on : March 04, 2022 06:43:41 
+[2022-03-04 18:48:46 : INFO] - 100 
+[2022-03-04 18:48:47 : INFO] - Re_Smush_It_Task with attachment ID : 1729, autocreated on : March 04, 2022 06:43:41 
+[2022-03-04 18:48:47 : INFO] - 100 
+[2022-03-04 18:48:48 : INFO] - Re_Smush_It_Task with attachment ID : 1729, autocreated on : March 04, 2022 06:43:41 
+[2022-03-04 18:48:48 : INFO] - 100 
+[2022-03-04 18:48:49 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/BARRA-12.png.The file was compressed from 34.91 KB to 19.13 KB saving 45.19 percent using WP-Optimize 
+[2022-03-04 18:48:49 : INFO] - Completed processing task with ID : 241, and type 'smush' 
+[2022-03-04 18:48:49 : INFO] - Processing task with ID : 242, and type 'smush' 
+[2022-03-04 18:48:49 : INFO] - Re_Smush_It_Task with attachment ID : 1730, autocreated on : March 04, 2022 06:43:43 
+[2022-03-04 18:48:49 : INFO] - 100 
+[2022-03-04 18:48:51 : INFO] - Backing up the original image - 2022/03/BARRA-13-updraft-pre-smush-original.png 
+[2022-03-04 18:48:51 : INFO] - Re_Smush_It_Task with attachment ID : 1730, autocreated on : March 04, 2022 06:43:43 
+[2022-03-04 18:48:51 : INFO] - 100 
+[2022-03-04 18:48:53 : INFO] - Re_Smush_It_Task with attachment ID : 1730, autocreated on : March 04, 2022 06:43:43 
+[2022-03-04 18:48:53 : INFO] - 100 
+[2022-03-04 18:48:54 : INFO] - Re_Smush_It_Task with attachment ID : 1730, autocreated on : March 04, 2022 06:43:43 
+[2022-03-04 18:48:54 : INFO] - 100 
+[2022-03-04 18:48:56 : INFO] - Re_Smush_It_Task with attachment ID : 1730, autocreated on : March 04, 2022 06:43:43 
+[2022-03-04 18:48:56 : INFO] - 100 
+[2022-03-04 18:48:57 : INFO] - Re_Smush_It_Task with attachment ID : 1730, autocreated on : March 04, 2022 06:43:43 
+[2022-03-04 18:48:57 : INFO] - 100 
+[2022-03-04 18:48:58 : INFO] - Re_Smush_It_Task with attachment ID : 1730, autocreated on : March 04, 2022 06:43:43 
+[2022-03-04 18:48:58 : INFO] - 100 
+[2022-03-04 18:49:00 : INFO] - Re_Smush_It_Task with attachment ID : 1730, autocreated on : March 04, 2022 06:43:43 
+[2022-03-04 18:49:00 : INFO] - 100 
+[2022-03-04 18:49:01 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/BARRA-13.png.The file was compressed from 43.63 KB to 18.79 KB saving 56.94 percent using WP-Optimize 
+[2022-03-04 18:49:01 : INFO] - Completed processing task with ID : 242, and type 'smush' 
+[2022-03-04 18:49:01 : INFO] - Processing task with ID : 243, and type 'smush' 
+[2022-03-04 18:49:01 : INFO] - Re_Smush_It_Task with attachment ID : 1731, autocreated on : March 04, 2022 06:43:46 
+[2022-03-04 18:49:01 : INFO] - 100 
+[2022-03-04 18:49:02 : INFO] - Backing up the original image - 2022/03/BARRA-14-updraft-pre-smush-original.png 
+[2022-03-04 18:49:02 : INFO] - Re_Smush_It_Task with attachment ID : 1731, autocreated on : March 04, 2022 06:43:46 
+[2022-03-04 18:49:02 : INFO] - 100 
+[2022-03-04 18:49:03 : INFO] - Re_Smush_It_Task with attachment ID : 1731, autocreated on : March 04, 2022 06:43:46 
+[2022-03-04 18:49:03 : INFO] - 100 
+[2022-03-04 18:49:04 : INFO] - Re_Smush_It_Task with attachment ID : 1731, autocreated on : March 04, 2022 06:43:46 
+[2022-03-04 18:49:04 : INFO] - 100 
+[2022-03-04 18:49:05 : INFO] - Re_Smush_It_Task with attachment ID : 1731, autocreated on : March 04, 2022 06:43:46 
+[2022-03-04 18:49:05 : INFO] - 100 
+[2022-03-04 18:49:06 : INFO] - Re_Smush_It_Task with attachment ID : 1731, autocreated on : March 04, 2022 06:43:46 
+[2022-03-04 18:49:06 : INFO] - 100 
+[2022-03-04 18:49:08 : INFO] - Re_Smush_It_Task with attachment ID : 1731, autocreated on : March 04, 2022 06:43:46 
+[2022-03-04 18:49:08 : INFO] - 100 
+[2022-03-04 18:49:09 : INFO] - Re_Smush_It_Task with attachment ID : 1731, autocreated on : March 04, 2022 06:43:46 
+[2022-03-04 18:49:09 : INFO] - 100 
+[2022-03-04 18:49:10 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/BARRA-14.png.The file was compressed from 10.64 KB to 5.91 KB saving 44.49 percent using WP-Optimize 
+[2022-03-04 18:49:10 : INFO] - Completed processing task with ID : 243, and type 'smush' 
+[2022-03-04 18:49:10 : INFO] - Processing task with ID : 244, and type 'smush' 
+[2022-03-04 18:49:10 : INFO] - Re_Smush_It_Task with attachment ID : 1732, autocreated on : March 04, 2022 06:43:47 
+[2022-03-04 18:49:10 : INFO] - 100 
+[2022-03-04 18:49:11 : INFO] - Backing up the original image - 2022/03/BARRA-15-updraft-pre-smush-original.png 
+[2022-03-04 18:49:11 : INFO] - Re_Smush_It_Task with attachment ID : 1732, autocreated on : March 04, 2022 06:43:47 
+[2022-03-04 18:49:11 : INFO] - 100 
+[2022-03-04 18:49:12 : INFO] - Re_Smush_It_Task with attachment ID : 1732, autocreated on : March 04, 2022 06:43:47 
+[2022-03-04 18:49:12 : INFO] - 100 
+[2022-03-04 18:49:14 : INFO] - Re_Smush_It_Task with attachment ID : 1732, autocreated on : March 04, 2022 06:43:47 
+[2022-03-04 18:49:14 : INFO] - 100 
+[2022-03-04 18:49:15 : INFO] - Re_Smush_It_Task with attachment ID : 1732, autocreated on : March 04, 2022 06:43:47 
+[2022-03-04 18:49:15 : INFO] - 100 
+[2022-03-04 18:49:16 : INFO] - Re_Smush_It_Task with attachment ID : 1732, autocreated on : March 04, 2022 06:43:47 
+[2022-03-04 18:49:16 : INFO] - 100 
+[2022-03-04 18:49:17 : INFO] - Re_Smush_It_Task with attachment ID : 1732, autocreated on : March 04, 2022 06:43:47 
+[2022-03-04 18:49:17 : INFO] - 100 
+[2022-03-04 18:49:18 : INFO] - Re_Smush_It_Task with attachment ID : 1732, autocreated on : March 04, 2022 06:43:47 
+[2022-03-04 18:49:18 : INFO] - 100 
+[2022-03-04 18:49:19 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/BARRA-15.png.The file was compressed from 20.25 KB to 10.76 KB saving 46.84 percent using WP-Optimize 
+[2022-03-04 18:49:19 : INFO] - Completed processing task with ID : 244, and type 'smush' 
+[2022-03-04 18:49:19 : INFO] - Processing task with ID : 245, and type 'smush' 
+[2022-03-04 18:49:20 : INFO] - Re_Smush_It_Task with attachment ID : 1733, autocreated on : March 04, 2022 06:43:50 
+[2022-03-04 18:49:20 : INFO] - 100 
+[2022-03-04 18:49:21 : INFO] - Backing up the original image - 2022/03/BARRA-16-updraft-pre-smush-original.png 
+[2022-03-04 18:49:21 : INFO] - Re_Smush_It_Task with attachment ID : 1733, autocreated on : March 04, 2022 06:43:50 
+[2022-03-04 18:49:21 : INFO] - 100 
+[2022-03-04 18:49:22 : INFO] - Re_Smush_It_Task with attachment ID : 1733, autocreated on : March 04, 2022 06:43:50 
+[2022-03-04 18:49:22 : INFO] - 100 
+[2022-03-04 18:49:23 : INFO] - Re_Smush_It_Task with attachment ID : 1733, autocreated on : March 04, 2022 06:43:50 
+[2022-03-04 18:49:23 : INFO] - 100 
+[2022-03-04 18:49:24 : INFO] - Re_Smush_It_Task with attachment ID : 1733, autocreated on : March 04, 2022 06:43:50 
+[2022-03-04 18:49:24 : INFO] - 100 
+[2022-03-04 18:49:26 : INFO] - Re_Smush_It_Task with attachment ID : 1733, autocreated on : March 04, 2022 06:43:50 
+[2022-03-04 18:49:26 : INFO] - 100 
+[2022-03-04 18:49:27 : INFO] - Re_Smush_It_Task with attachment ID : 1733, autocreated on : March 04, 2022 06:43:50 
+[2022-03-04 18:49:27 : INFO] - 100 
+[2022-03-04 18:49:28 : INFO] - Re_Smush_It_Task with attachment ID : 1733, autocreated on : March 04, 2022 06:43:50 
+[2022-03-04 18:49:28 : INFO] - 100 
+[2022-03-04 18:49:29 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/BARRA-16.png.The file was compressed from 26.69 KB to 15.03 KB saving 43.69 percent using WP-Optimize 
+[2022-03-04 18:49:29 : INFO] - Completed processing task with ID : 245, and type 'smush' 
+[2022-03-04 18:49:29 : INFO] - Processing task with ID : 246, and type 'smush' 
+[2022-03-04 18:49:29 : INFO] - Re_Smush_It_Task with attachment ID : 1734, autocreated on : March 04, 2022 06:43:52 
+[2022-03-04 18:49:29 : INFO] - 100 
+[2022-03-04 18:49:30 : INFO] - Backing up the original image - 2022/03/BARRA-17-updraft-pre-smush-original.png 
+[2022-03-04 18:49:30 : INFO] - Re_Smush_It_Task with attachment ID : 1734, autocreated on : March 04, 2022 06:43:52 
+[2022-03-04 18:49:30 : INFO] - 100 
+[2022-03-04 18:49:31 : INFO] - Re_Smush_It_Task with attachment ID : 1734, autocreated on : March 04, 2022 06:43:52 
+[2022-03-04 18:49:32 : INFO] - 100 
+[2022-03-04 18:49:33 : INFO] - Re_Smush_It_Task with attachment ID : 1734, autocreated on : March 04, 2022 06:43:52 
+[2022-03-04 18:49:33 : INFO] - 100 
+[2022-03-04 18:49:34 : INFO] - Re_Smush_It_Task with attachment ID : 1734, autocreated on : March 04, 2022 06:43:52 
+[2022-03-04 18:49:34 : INFO] - 100 
+[2022-03-04 18:49:35 : INFO] - Re_Smush_It_Task with attachment ID : 1734, autocreated on : March 04, 2022 06:43:52 
+[2022-03-04 18:49:35 : INFO] - 100 
+[2022-03-04 18:49:36 : INFO] - Re_Smush_It_Task with attachment ID : 1734, autocreated on : March 04, 2022 06:43:52 
+[2022-03-04 18:49:36 : INFO] - 100 
+[2022-03-04 18:49:37 : INFO] - Re_Smush_It_Task with attachment ID : 1734, autocreated on : March 04, 2022 06:43:52 
+[2022-03-04 18:49:37 : INFO] - 100 
+[2022-03-04 18:49:38 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/BARRA-17.png.The file was compressed from 8.47 KB to 5.11 KB saving 39.66 percent using WP-Optimize 
+[2022-03-04 18:49:38 : INFO] - Completed processing task with ID : 246, and type 'smush' 
+[2022-03-04 18:49:38 : INFO] - Processing task with ID : 247, and type 'smush' 
+[2022-03-04 18:49:38 : INFO] - Re_Smush_It_Task with attachment ID : 1735, autocreated on : March 04, 2022 06:43:54 
+[2022-03-04 18:49:38 : INFO] - 100 
+[2022-03-04 18:49:40 : INFO] - Backing up the original image - 2022/03/BARRA-18-updraft-pre-smush-original.png 
+[2022-03-04 18:49:40 : INFO] - Re_Smush_It_Task with attachment ID : 1735, autocreated on : March 04, 2022 06:43:54 
+[2022-03-04 18:49:40 : INFO] - 100 
+[2022-03-04 18:49:41 : INFO] - Re_Smush_It_Task with attachment ID : 1735, autocreated on : March 04, 2022 06:43:54 
+[2022-03-04 18:49:41 : INFO] - 100 
+[2022-03-04 18:49:42 : INFO] - Re_Smush_It_Task with attachment ID : 1735, autocreated on : March 04, 2022 06:43:54 
+[2022-03-04 18:49:42 : INFO] - 100 
+[2022-03-04 18:49:43 : INFO] - Re_Smush_It_Task with attachment ID : 1735, autocreated on : March 04, 2022 06:43:54 
+[2022-03-04 18:49:43 : INFO] - 100 
+[2022-03-04 18:49:44 : INFO] - Re_Smush_It_Task with attachment ID : 1735, autocreated on : March 04, 2022 06:43:54 
+[2022-03-04 18:49:44 : INFO] - 100 
+[2022-03-04 18:49:46 : INFO] - Re_Smush_It_Task with attachment ID : 1735, autocreated on : March 04, 2022 06:43:54 
+[2022-03-04 18:49:46 : INFO] - 100 
+[2022-03-04 18:49:47 : INFO] - Re_Smush_It_Task with attachment ID : 1735, autocreated on : March 04, 2022 06:43:54 
+[2022-03-04 18:49:47 : INFO] - 100 
+[2022-03-04 18:49:48 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/BARRA-18.png.The file was compressed from 14.42 KB to 6.97 KB saving 51.62 percent using WP-Optimize 
+[2022-03-04 18:49:48 : INFO] - Completed processing task with ID : 247, and type 'smush' 
+[2022-03-04 18:49:48 : INFO] - Processing task with ID : 248, and type 'smush' 
+[2022-03-04 18:49:48 : INFO] - Re_Smush_It_Task with attachment ID : 1736, autocreated on : March 04, 2022 06:43:56 
+[2022-03-04 18:49:48 : INFO] - 100 
+[2022-03-04 18:49:49 : INFO] - Backing up the original image - 2022/03/BARRA-19-updraft-pre-smush-original.png 
+[2022-03-04 18:49:49 : INFO] - Re_Smush_It_Task with attachment ID : 1736, autocreated on : March 04, 2022 06:43:56 
+[2022-03-04 18:49:49 : INFO] - 100 
+[2022-03-04 18:49:50 : INFO] - Re_Smush_It_Task with attachment ID : 1736, autocreated on : March 04, 2022 06:43:56 
+[2022-03-04 18:49:50 : INFO] - 100 
+[2022-03-04 18:49:52 : INFO] - Re_Smush_It_Task with attachment ID : 1736, autocreated on : March 04, 2022 06:43:56 
+[2022-03-04 18:49:52 : INFO] - 100 
+[2022-03-04 18:49:53 : INFO] - Re_Smush_It_Task with attachment ID : 1736, autocreated on : March 04, 2022 06:43:56 
+[2022-03-04 18:49:53 : INFO] - 100 
+[2022-03-04 18:49:54 : INFO] - Re_Smush_It_Task with attachment ID : 1736, autocreated on : March 04, 2022 06:43:56 
+[2022-03-04 18:49:54 : INFO] - 100 
+[2022-03-04 18:49:55 : INFO] - Re_Smush_It_Task with attachment ID : 1736, autocreated on : March 04, 2022 06:43:56 
+[2022-03-04 18:49:55 : INFO] - 100 
+[2022-03-04 18:49:56 : INFO] - Re_Smush_It_Task with attachment ID : 1736, autocreated on : March 04, 2022 06:43:56 
+[2022-03-04 18:49:56 : INFO] - 100 
+[2022-03-04 18:49:57 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/BARRA-19.png.The file was compressed from 16.77 KB to 8.12 KB saving 51.58 percent using WP-Optimize 
+[2022-03-04 18:49:57 : INFO] - Completed processing task with ID : 248, and type 'smush' 
+[2022-03-04 18:49:57 : INFO] - Processing task with ID : 249, and type 'smush' 
+[2022-03-04 18:49:57 : INFO] - Re_Smush_It_Task with attachment ID : 1737, autocreated on : March 04, 2022 06:43:58 
+[2022-03-04 18:49:57 : INFO] - 100 
+[2022-03-04 18:49:59 : INFO] - Backing up the original image - 2022/03/BARRA-20-updraft-pre-smush-original.png 
+[2022-03-04 18:49:59 : INFO] - Re_Smush_It_Task with attachment ID : 1737, autocreated on : March 04, 2022 06:43:58 
+[2022-03-04 18:49:59 : INFO] - 100 
+[2022-03-04 18:50:00 : INFO] - Re_Smush_It_Task with attachment ID : 1737, autocreated on : March 04, 2022 06:43:58 
+[2022-03-04 18:50:00 : INFO] - 100 
+[2022-03-04 18:50:01 : INFO] - Re_Smush_It_Task with attachment ID : 1737, autocreated on : March 04, 2022 06:43:58 
+[2022-03-04 18:50:01 : INFO] - 100 
+[2022-03-04 18:50:02 : INFO] - Re_Smush_It_Task with attachment ID : 1737, autocreated on : March 04, 2022 06:43:58 
+[2022-03-04 18:50:02 : INFO] - 100 
+[2022-03-04 18:50:03 : INFO] - Re_Smush_It_Task with attachment ID : 1737, autocreated on : March 04, 2022 06:43:58 
+[2022-03-04 18:50:03 : INFO] - 100 
+[2022-03-04 18:50:04 : INFO] - Re_Smush_It_Task with attachment ID : 1737, autocreated on : March 04, 2022 06:43:58 
+[2022-03-04 18:50:04 : INFO] - 100 
+[2022-03-04 18:50:06 : INFO] - Re_Smush_It_Task with attachment ID : 1737, autocreated on : March 04, 2022 06:43:58 
+[2022-03-04 18:50:06 : INFO] - 100 
+[2022-03-04 18:50:07 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/BARRA-20.png.The file was compressed from 15.48 KB to 9.60 KB saving 37.96 percent using WP-Optimize 
+[2022-03-04 18:50:07 : INFO] - Completed processing task with ID : 249, and type 'smush' 
+[2022-03-04 18:50:07 : INFO] - Processing task with ID : 250, and type 'smush' 
+[2022-03-04 18:50:07 : INFO] - Re_Smush_It_Task with attachment ID : 1738, autocreated on : March 04, 2022 06:44:00 
+[2022-03-04 18:50:07 : INFO] - 100 
+[2022-03-04 18:50:08 : INFO] - Backing up the original image - 2022/03/BARRA-21-updraft-pre-smush-original.png 
+[2022-03-04 18:50:08 : INFO] - Re_Smush_It_Task with attachment ID : 1738, autocreated on : March 04, 2022 06:44:00 
+[2022-03-04 18:50:08 : INFO] - 100 
+[2022-03-04 18:50:09 : INFO] - Re_Smush_It_Task with attachment ID : 1738, autocreated on : March 04, 2022 06:44:00 
+[2022-03-04 18:50:09 : INFO] - 100 
+[2022-03-04 18:50:11 : INFO] - Re_Smush_It_Task with attachment ID : 1738, autocreated on : March 04, 2022 06:44:00 
+[2022-03-04 18:50:11 : INFO] - 100 
+[2022-03-04 18:50:12 : INFO] - Re_Smush_It_Task with attachment ID : 1738, autocreated on : March 04, 2022 06:44:00 
+[2022-03-04 18:50:12 : INFO] - 100 
+[2022-03-04 18:50:13 : INFO] - Re_Smush_It_Task with attachment ID : 1738, autocreated on : March 04, 2022 06:44:00 
+[2022-03-04 18:50:13 : INFO] - 100 
+[2022-03-04 18:50:14 : INFO] - Re_Smush_It_Task with attachment ID : 1738, autocreated on : March 04, 2022 06:44:00 
+[2022-03-04 18:50:14 : INFO] - 100 
+[2022-03-04 18:50:15 : INFO] - Re_Smush_It_Task with attachment ID : 1738, autocreated on : March 04, 2022 06:44:00 
+[2022-03-04 18:50:15 : INFO] - 100 
+[2022-03-04 18:50:16 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/BARRA-21.png.The file was compressed from 16.32 KB to 11.97 KB saving 26.61 percent using WP-Optimize 
+[2022-03-04 18:50:16 : INFO] - Completed processing task with ID : 250, and type 'smush' 
+[2022-03-04 18:50:17 : INFO] - Processing task with ID : 251, and type 'smush' 
+[2022-03-04 18:50:17 : INFO] - Re_Smush_It_Task with attachment ID : 1739, autocreated on : March 04, 2022 06:44:02 
+[2022-03-04 18:50:17 : INFO] - 100 
+[2022-03-04 18:50:18 : INFO] - Backing up the original image - 2022/03/BARRA-22-updraft-pre-smush-original.png 
+[2022-03-04 18:50:18 : INFO] - Re_Smush_It_Task with attachment ID : 1739, autocreated on : March 04, 2022 06:44:02 
+[2022-03-04 18:50:18 : INFO] - 100 
+[2022-03-04 18:50:19 : INFO] - Re_Smush_It_Task with attachment ID : 1739, autocreated on : March 04, 2022 06:44:02 
+[2022-03-04 18:50:19 : INFO] - 100 
+[2022-03-04 18:50:21 : INFO] - Re_Smush_It_Task with attachment ID : 1739, autocreated on : March 04, 2022 06:44:02 
+[2022-03-04 18:50:21 : INFO] - 100 
+[2022-03-04 18:50:22 : INFO] - Re_Smush_It_Task with attachment ID : 1739, autocreated on : March 04, 2022 06:44:02 
+[2022-03-04 18:50:22 : INFO] - 100 
+[2022-03-04 18:50:23 : INFO] - Re_Smush_It_Task with attachment ID : 1739, autocreated on : March 04, 2022 06:44:02 
+[2022-03-04 18:50:23 : INFO] - 100 
+[2022-03-04 18:50:24 : INFO] - Re_Smush_It_Task with attachment ID : 1739, autocreated on : March 04, 2022 06:44:02 
+[2022-03-04 18:50:24 : INFO] - 100 
+[2022-03-04 18:50:25 : INFO] - Re_Smush_It_Task with attachment ID : 1742, autocreated on : March 04, 2022 06:50:25 
+[2022-03-04 18:50:25 : INFO] - Re_Smush_It_Task with attachment ID : 1739, autocreated on : March 04, 2022 06:44:02 
+[2022-03-04 18:50:25 : INFO] - 100 
+[2022-03-04 18:50:27 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/BARRA-22.png.The file was compressed from 21.67 KB to 16.99 KB saving 21.6 percent using WP-Optimize 
+[2022-03-04 18:50:27 : INFO] - Completed processing task with ID : 251, and type 'smush' 
+[2022-03-04 18:50:27 : INFO] - Processing task with ID : 252, and type 'smush' 
+[2022-03-04 18:50:27 : INFO] - Re_Smush_It_Task with attachment ID : 1740, autocreated on : March 04, 2022 06:44:04 
+[2022-03-04 18:50:27 : INFO] - 100 
+[2022-03-04 18:50:29 : INFO] - Backing up the original image - 2022/03/BARRA-23-updraft-pre-smush-original.png 
+[2022-03-04 18:50:29 : INFO] - Re_Smush_It_Task with attachment ID : 1740, autocreated on : March 04, 2022 06:44:04 
+[2022-03-04 18:50:29 : INFO] - 100 
+[2022-03-04 18:50:30 : INFO] - Re_Smush_It_Task with attachment ID : 1740, autocreated on : March 04, 2022 06:44:04 
+[2022-03-04 18:50:30 : INFO] - 100 
+[2022-03-04 18:50:32 : INFO] - Re_Smush_It_Task with attachment ID : 1740, autocreated on : March 04, 2022 06:44:04 
+[2022-03-04 18:50:32 : INFO] - 100 
+[2022-03-04 18:50:33 : INFO] - Re_Smush_It_Task with attachment ID : 1740, autocreated on : March 04, 2022 06:44:04 
+[2022-03-04 18:50:33 : INFO] - 100 
+[2022-03-04 18:50:34 : INFO] - Re_Smush_It_Task with attachment ID : 1740, autocreated on : March 04, 2022 06:44:04 
+[2022-03-04 18:50:34 : INFO] - 100 
+[2022-03-04 18:50:36 : INFO] - Re_Smush_It_Task with attachment ID : 1740, autocreated on : March 04, 2022 06:44:04 
+[2022-03-04 18:50:36 : INFO] - 100 
+[2022-03-04 18:50:37 : INFO] - Re_Smush_It_Task with attachment ID : 1740, autocreated on : March 04, 2022 06:44:04 
+[2022-03-04 18:50:37 : INFO] - 100 
+[2022-03-04 18:50:38 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/BARRA-23.png.The file was compressed from 58.89 KB to 21.15 KB saving 64.08 percent using WP-Optimize 
+[2022-03-04 18:50:38 : INFO] - Completed processing task with ID : 252, and type 'smush' 
+[2022-03-04 18:50:38 : INFO] - Processing task with ID : 253, and type 'smush' 
+[2022-03-04 18:50:38 : INFO] - Re_Smush_It_Task with attachment ID : 1741, autocreated on : March 04, 2022 06:44:06 
+[2022-03-04 18:50:38 : INFO] - 100 
+[2022-03-04 18:50:41 : INFO] - Backing up the original image - 2022/03/BARRA-24-updraft-pre-smush-original.png 
+[2022-03-04 18:50:41 : INFO] - Re_Smush_It_Task with attachment ID : 1741, autocreated on : March 04, 2022 06:44:06 
+[2022-03-04 18:50:41 : INFO] - 100 
+[2022-03-04 18:50:42 : INFO] - Re_Smush_It_Task with attachment ID : 1741, autocreated on : March 04, 2022 06:44:06 
+[2022-03-04 18:50:42 : INFO] - 100 
+[2022-03-04 18:50:44 : INFO] - Re_Smush_It_Task with attachment ID : 1741, autocreated on : March 04, 2022 06:44:06 
+[2022-03-04 18:50:44 : INFO] - 100 
+[2022-03-04 18:50:45 : INFO] - Re_Smush_It_Task with attachment ID : 1741, autocreated on : March 04, 2022 06:44:06 
+[2022-03-04 18:50:45 : INFO] - 100 
+[2022-03-04 18:50:47 : INFO] - Re_Smush_It_Task with attachment ID : 1741, autocreated on : March 04, 2022 06:44:06 
+[2022-03-04 18:50:47 : INFO] - 100 
+[2022-03-04 18:50:49 : INFO] - Re_Smush_It_Task with attachment ID : 1741, autocreated on : March 04, 2022 06:44:06 
+[2022-03-04 18:50:49 : INFO] - 100 
+[2022-03-04 18:50:50 : INFO] - Re_Smush_It_Task with attachment ID : 1741, autocreated on : March 04, 2022 06:44:06 
+[2022-03-04 18:50:50 : INFO] - 100 
+[2022-03-04 18:50:51 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/BARRA-24.png.The file was compressed from 73.48 KB to 35.86 KB saving 51.2 percent using WP-Optimize 
+[2022-03-04 18:50:51 : INFO] - Completed processing task with ID : 253, and type 'smush' 
+[2022-03-04 18:50:51 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-03-04 18:50:51 : INFO] - Successfully processed the queue (smush). 24 tasks were processed out of 24. 
+[2022-03-04 18:50:51 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-03-04 18:53:44 : INFO] - Re_Smush_It_Task with attachment ID : 1746, autocreated on : March 04, 2022 06:53:44 
+[2022-03-04 18:57:09 : INFO] - 
+ 
+[2022-03-04 18:57:09 : INFO] - Header for logs at time:  Fri, 04 Mar 2022 18:57:09 +0000 on https://newcryptomonkeyslp.local 
+[2022-03-04 18:57:09 : INFO] - WP: 5.9.1 
+[2022-03-04 18:57:09 : INFO] - PHP: 7.4.1 (cgi-fcgi, Windows NT LAPTOP-C6PJKMM6 10.0 build 22000 (Windows 10) AMD64) 
+[2022-03-04 18:57:09 : INFO] - MySQL: 8.0.16 
+[2022-03-04 18:57:09 : INFO] - WPLANG: pt_BR 
+[2022-03-04 18:57:09 : INFO] - Server: nginx/1.16.0 
+[2022-03-04 18:57:09 : INFO] - Outbound connections: N 
+[2022-03-04 18:57:09 : INFO] - safe_mode: 0 
+[2022-03-04 18:57:09 : INFO] - max_execution_time: 86400 
+[2022-03-04 18:57:09 : INFO] - memory_limit: 30240M (used: 20M | 2M) 
+[2022-03-04 18:57:09 : INFO] - multisite: N 
+[2022-03-04 18:57:09 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2022-03-04 18:57:09 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2022-03-04 18:57:09 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-03-04 18:57:09 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-03-04 18:57:09 : INFO] - Processing task with ID : 254, and type 'smush' 
+[2022-03-04 18:57:09 : INFO] - Re_Smush_It_Task with attachment ID : 1742, autocreated on : March 04, 2022 06:50:25 
+[2022-03-04 18:57:09 : INFO] - 100 
+[2022-03-04 18:57:12 : INFO] - Backing up the original image - 2022/03/banana-bg-updraft-pre-smush-original.jpg 
+[2022-03-04 18:57:12 : INFO] - Re_Smush_It_Task with attachment ID : 1742, autocreated on : March 04, 2022 06:50:25 
+[2022-03-04 18:57:12 : INFO] - 100 
+[2022-03-04 18:57:13 : INFO] - Re_Smush_It_Task with attachment ID : 1742, autocreated on : March 04, 2022 06:50:25 
+[2022-03-04 18:57:13 : INFO] - 100 
+[2022-03-04 18:57:14 : INFO] - Re_Smush_It_Task with attachment ID : 1742, autocreated on : March 04, 2022 06:50:25 
+[2022-03-04 18:57:14 : INFO] - 100 
+[2022-03-04 18:57:15 : INFO] - Re_Smush_It_Task with attachment ID : 1742, autocreated on : March 04, 2022 06:50:25 
+[2022-03-04 18:57:15 : INFO] - 100 
+[2022-03-04 18:57:17 : INFO] - Re_Smush_It_Task with attachment ID : 1742, autocreated on : March 04, 2022 06:50:25 
+[2022-03-04 18:57:17 : INFO] - 100 
+[2022-03-04 18:57:18 : INFO] - Re_Smush_It_Task with attachment ID : 1742, autocreated on : March 04, 2022 06:50:25 
+[2022-03-04 18:57:18 : INFO] - 100 
+[2022-03-04 18:57:19 : INFO] - Re_Smush_It_Task with attachment ID : 1742, autocreated on : March 04, 2022 06:50:25 
+[2022-03-04 18:57:19 : INFO] - 100 
+[2022-03-04 18:57:21 : INFO] - Re_Smush_It_Task with attachment ID : 1742, autocreated on : March 04, 2022 06:50:25 
+[2022-03-04 18:57:21 : INFO] - 100 
+[2022-03-04 18:57:22 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/banana-bg.jpg.The file was compressed from 68.53 KB to 64.52 KB saving 5.86 percent using WP-Optimize 
+[2022-03-04 18:57:22 : INFO] - Completed processing task with ID : 254, and type 'smush' 
+[2022-03-04 18:57:22 : INFO] - Processing task with ID : 255, and type 'smush' 
+[2022-03-04 18:57:22 : INFO] - Re_Smush_It_Task with attachment ID : 1746, autocreated on : March 04, 2022 06:53:44 
+[2022-03-04 18:57:22 : INFO] - 100 
+[2022-03-04 18:57:24 : INFO] - Backing up the original image - 2022/03/shiny_logo-updraft-pre-smush-original.png 
+[2022-03-04 18:57:24 : INFO] - Re_Smush_It_Task with attachment ID : 1746, autocreated on : March 04, 2022 06:53:44 
+[2022-03-04 18:57:24 : INFO] - 100 
+[2022-03-04 18:57:25 : INFO] - Re_Smush_It_Task with attachment ID : 1746, autocreated on : March 04, 2022 06:53:44 
+[2022-03-04 18:57:25 : INFO] - 100 
+[2022-03-04 18:57:26 : INFO] - Re_Smush_It_Task with attachment ID : 1746, autocreated on : March 04, 2022 06:53:44 
+[2022-03-04 18:57:26 : INFO] - 100 
+[2022-03-04 18:57:28 : INFO] - Re_Smush_It_Task with attachment ID : 1746, autocreated on : March 04, 2022 06:53:44 
+[2022-03-04 18:57:28 : INFO] - 100 
+[2022-03-04 18:57:30 : INFO] - Re_Smush_It_Task with attachment ID : 1746, autocreated on : March 04, 2022 06:53:44 
+[2022-03-04 18:57:30 : INFO] - 100 
+[2022-03-04 18:57:32 : INFO] - Re_Smush_It_Task with attachment ID : 1746, autocreated on : March 04, 2022 06:53:44 
+[2022-03-04 18:57:32 : INFO] - 100 
+[2022-03-04 18:57:33 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/shiny_logo.png.The file was compressed from 60.60 KB to 35.97 KB saving 40.65 percent using WP-Optimize 
+[2022-03-04 18:57:33 : INFO] - Completed processing task with ID : 255, and type 'smush' 
+[2022-03-04 18:57:33 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-03-04 18:57:33 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2022-03-04 18:57:33 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-03-04 18:57:33 : INFO] - Cleaning up tasks of type (smush). A total of 26 tasks will be deleted. 
+[2022-03-04 19:01:56 : INFO] - Re_Smush_It_Task with attachment ID : 1747, autocreated on : March 04, 2022 07:01:56 
+[2022-03-04 19:02:00 : INFO] - Re_Smush_It_Task with attachment ID : 1748, autocreated on : March 04, 2022 07:01:59 
+[2022-03-04 19:05:19 : INFO] - Re_Smush_It_Task with attachment ID : 1750, autocreated on : March 04, 2022 07:05:19 
+[2022-03-04 19:05:21 : INFO] - Re_Smush_It_Task with attachment ID : 1751, autocreated on : March 04, 2022 07:05:21 
+[2022-03-04 19:05:23 : INFO] - Re_Smush_It_Task with attachment ID : 1752, autocreated on : March 04, 2022 07:05:23 
+[2022-03-04 19:05:25 : INFO] - Re_Smush_It_Task with attachment ID : 1753, autocreated on : March 04, 2022 07:05:25 
+[2022-03-04 19:05:28 : INFO] - Re_Smush_It_Task with attachment ID : 1754, autocreated on : March 04, 2022 07:05:28 
+[2022-03-04 19:05:30 : INFO] - Re_Smush_It_Task with attachment ID : 1755, autocreated on : March 04, 2022 07:05:30 
+[2022-03-04 19:05:33 : INFO] - Re_Smush_It_Task with attachment ID : 1756, autocreated on : March 04, 2022 07:05:33 
+[2022-03-04 19:05:35 : INFO] - Re_Smush_It_Task with attachment ID : 1757, autocreated on : March 04, 2022 07:05:35 
+[2022-03-04 19:05:37 : INFO] - Re_Smush_It_Task with attachment ID : 1758, autocreated on : March 04, 2022 07:05:37 
+[2022-03-04 19:05:39 : INFO] - Re_Smush_It_Task with attachment ID : 1759, autocreated on : March 04, 2022 07:05:39 
+[2022-03-04 19:05:42 : INFO] - Re_Smush_It_Task with attachment ID : 1760, autocreated on : March 04, 2022 07:05:42 
+[2022-03-04 19:05:46 : INFO] - Re_Smush_It_Task with attachment ID : 1761, autocreated on : March 04, 2022 07:05:46 
+[2022-03-04 19:05:50 : INFO] - Re_Smush_It_Task with attachment ID : 1762, autocreated on : March 04, 2022 07:05:50 
+[2022-03-04 19:05:53 : INFO] - Re_Smush_It_Task with attachment ID : 1763, autocreated on : March 04, 2022 07:05:53 
+[2022-03-04 19:05:56 : INFO] - Re_Smush_It_Task with attachment ID : 1764, autocreated on : March 04, 2022 07:05:55 
+[2022-03-04 19:05:58 : INFO] - Re_Smush_It_Task with attachment ID : 1765, autocreated on : March 04, 2022 07:05:58 
+[2022-03-04 19:06:00 : INFO] - Re_Smush_It_Task with attachment ID : 1766, autocreated on : March 04, 2022 07:06:00 
+[2022-03-04 19:06:03 : INFO] - Re_Smush_It_Task with attachment ID : 1767, autocreated on : March 04, 2022 07:06:03 
+[2022-03-04 19:07:13 : INFO] - 
+ 
+[2022-03-04 19:07:13 : INFO] - Header for logs at time:  Fri, 04 Mar 2022 19:07:13 +0000 on https://newcryptomonkeyslp.local 
+[2022-03-04 19:07:13 : INFO] - WP: 5.9.1 
+[2022-03-04 19:07:13 : INFO] - PHP: 7.4.1 (cgi-fcgi, Windows NT LAPTOP-C6PJKMM6 10.0 build 22000 (Windows 10) AMD64) 
+[2022-03-04 19:07:13 : INFO] - MySQL: 8.0.16 
+[2022-03-04 19:07:13 : INFO] - WPLANG: pt_BR 
+[2022-03-04 19:07:13 : INFO] - Server: nginx/1.16.0 
+[2022-03-04 19:07:13 : INFO] - Outbound connections: N 
+[2022-03-04 19:07:13 : INFO] - safe_mode: 0 
+[2022-03-04 19:07:13 : INFO] - max_execution_time: 86400 
+[2022-03-04 19:07:13 : INFO] - memory_limit: 30240M (used: 20M | 2M) 
+[2022-03-04 19:07:13 : INFO] - multisite: N 
+[2022-03-04 19:07:13 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2022-03-04 19:07:13 : INFO] - A total of 20 tasks of type smush found and will be processed in this iteration 
+[2022-03-04 19:07:13 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-03-04 19:07:13 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-03-04 19:07:13 : INFO] - Processing task with ID : 256, and type 'smush' 
+[2022-03-04 19:07:13 : INFO] - Re_Smush_It_Task with attachment ID : 1747, autocreated on : March 04, 2022 07:01:56 
+[2022-03-04 19:07:13 : INFO] - 100 
+[2022-03-04 19:07:16 : INFO] - Backing up the original image - 2022/03/PLANTAS-2-updraft-pre-smush-original.png 
+[2022-03-04 19:07:16 : INFO] - Re_Smush_It_Task with attachment ID : 1747, autocreated on : March 04, 2022 07:01:56 
+[2022-03-04 19:07:16 : INFO] - 100 
+[2022-03-04 19:07:17 : INFO] - Re_Smush_It_Task with attachment ID : 1747, autocreated on : March 04, 2022 07:01:56 
+[2022-03-04 19:07:17 : INFO] - 100 
+[2022-03-04 19:07:18 : INFO] - Re_Smush_It_Task with attachment ID : 1747, autocreated on : March 04, 2022 07:01:56 
+[2022-03-04 19:07:18 : INFO] - 100 
+[2022-03-04 19:07:20 : INFO] - Re_Smush_It_Task with attachment ID : 1747, autocreated on : March 04, 2022 07:01:56 
+[2022-03-04 19:07:20 : INFO] - 100 
+[2022-03-04 19:07:21 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/PLANTAS-2.png.The file was compressed from 169.67 KB to 25.13 KB saving 85.19 percent using WP-Optimize 
+[2022-03-04 19:07:21 : INFO] - Completed processing task with ID : 256, and type 'smush' 
+[2022-03-04 19:07:21 : INFO] - Processing task with ID : 257, and type 'smush' 
+[2022-03-04 19:07:21 : INFO] - Re_Smush_It_Task with attachment ID : 1748, autocreated on : March 04, 2022 07:01:59 
+[2022-03-04 19:07:21 : INFO] - 100 
+[2022-03-04 19:07:24 : INFO] - Backing up the original image - 2022/03/PLANTAS-updraft-pre-smush-original.png 
+[2022-03-04 19:07:24 : INFO] - Re_Smush_It_Task with attachment ID : 1748, autocreated on : March 04, 2022 07:01:59 
+[2022-03-04 19:07:24 : INFO] - 100 
+[2022-03-04 19:07:26 : INFO] - Re_Smush_It_Task with attachment ID : 1748, autocreated on : March 04, 2022 07:01:59 
+[2022-03-04 19:07:26 : INFO] - 100 
+[2022-03-04 19:07:27 : INFO] - Re_Smush_It_Task with attachment ID : 1748, autocreated on : March 04, 2022 07:01:59 
+[2022-03-04 19:07:27 : INFO] - 100 
+[2022-03-04 19:07:29 : INFO] - Re_Smush_It_Task with attachment ID : 1748, autocreated on : March 04, 2022 07:01:59 
+[2022-03-04 19:07:29 : INFO] - 100 
+[2022-03-04 19:07:30 : INFO] - Re_Smush_It_Task with attachment ID : 1748, autocreated on : March 04, 2022 07:01:59 
+[2022-03-04 19:07:30 : INFO] - 100 
+[2022-03-04 19:07:31 : INFO] - Re_Smush_It_Task with attachment ID : 1748, autocreated on : March 04, 2022 07:01:59 
+[2022-03-04 19:07:31 : INFO] - 100 
+[2022-03-04 19:07:33 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/PLANTAS.png.The file was compressed from 298.50 KB to 25.96 KB saving 91.3 percent using WP-Optimize 
+[2022-03-04 19:07:33 : INFO] - Completed processing task with ID : 257, and type 'smush' 
+[2022-03-04 19:07:33 : INFO] - Processing task with ID : 258, and type 'smush' 
+[2022-03-04 19:07:33 : INFO] - Re_Smush_It_Task with attachment ID : 1750, autocreated on : March 04, 2022 07:05:19 
+[2022-03-04 19:07:33 : INFO] - 100 
+[2022-03-04 19:07:36 : INFO] - Backing up the original image - 2022/03/Neandermonkey-Hunter-p2-updraft-pre-smush-original.png 
+[2022-03-04 19:07:36 : INFO] - Re_Smush_It_Task with attachment ID : 1750, autocreated on : March 04, 2022 07:05:19 
+[2022-03-04 19:07:36 : INFO] - 100 
+[2022-03-04 19:07:37 : INFO] - Re_Smush_It_Task with attachment ID : 1750, autocreated on : March 04, 2022 07:05:19 
+[2022-03-04 19:07:37 : INFO] - 100 
+[2022-03-04 19:07:39 : INFO] - Re_Smush_It_Task with attachment ID : 1750, autocreated on : March 04, 2022 07:05:19 
+[2022-03-04 19:07:39 : INFO] - 100 
+[2022-03-04 19:07:41 : INFO] - Re_Smush_It_Task with attachment ID : 1750, autocreated on : March 04, 2022 07:05:19 
+[2022-03-04 19:07:41 : INFO] - 100 
+[2022-03-04 19:07:42 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/Neandermonkey-Hunter-p2.png.The file was compressed from 176.72 KB to 58.20 KB saving 67.07 percent using WP-Optimize 
+[2022-03-04 19:07:42 : INFO] - Completed processing task with ID : 258, and type 'smush' 
+[2022-03-04 19:07:43 : INFO] - Processing task with ID : 259, and type 'smush' 
+[2022-03-04 19:07:43 : INFO] - Re_Smush_It_Task with attachment ID : 1751, autocreated on : March 04, 2022 07:05:21 
+[2022-03-04 19:07:43 : INFO] - 100 
+[2022-03-04 19:07:45 : INFO] - Backing up the original image - 2022/03/Neardermonkey-p1-updraft-pre-smush-original.png 
+[2022-03-04 19:07:45 : INFO] - Re_Smush_It_Task with attachment ID : 1751, autocreated on : March 04, 2022 07:05:21 
+[2022-03-04 19:07:45 : INFO] - 100 
+[2022-03-04 19:07:47 : INFO] - Re_Smush_It_Task with attachment ID : 1751, autocreated on : March 04, 2022 07:05:21 
+[2022-03-04 19:07:47 : INFO] - 100 
+[2022-03-04 19:07:48 : INFO] - Re_Smush_It_Task with attachment ID : 1751, autocreated on : March 04, 2022 07:05:21 
+[2022-03-04 19:07:48 : INFO] - 100 
+[2022-03-04 19:07:51 : INFO] - Re_Smush_It_Task with attachment ID : 1751, autocreated on : March 04, 2022 07:05:21 
+[2022-03-04 19:07:51 : INFO] - 100 
+[2022-03-04 19:07:52 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/Neardermonkey-p1.png.The file was compressed from 150.86 KB to 58.64 KB saving 61.13 percent using WP-Optimize 
+[2022-03-04 19:07:52 : INFO] - Completed processing task with ID : 259, and type 'smush' 
+[2022-03-04 19:07:52 : INFO] - Processing task with ID : 260, and type 'smush' 
+[2022-03-04 19:07:52 : INFO] - Re_Smush_It_Task with attachment ID : 1752, autocreated on : March 04, 2022 07:05:23 
+[2022-03-04 19:07:52 : INFO] - 100 
+[2022-03-04 19:07:55 : INFO] - Backing up the original image - 2022/03/Neardermonkey-p2-updraft-pre-smush-original.png 
+[2022-03-04 19:07:55 : INFO] - Re_Smush_It_Task with attachment ID : 1752, autocreated on : March 04, 2022 07:05:23 
+[2022-03-04 19:07:55 : INFO] - 100 
+[2022-03-04 19:07:57 : INFO] - Re_Smush_It_Task with attachment ID : 1752, autocreated on : March 04, 2022 07:05:23 
+[2022-03-04 19:07:57 : INFO] - 100 
+[2022-03-04 19:07:58 : INFO] - Re_Smush_It_Task with attachment ID : 1752, autocreated on : March 04, 2022 07:05:23 
+[2022-03-04 19:07:58 : INFO] - 100 
+[2022-03-04 19:08:01 : INFO] - Re_Smush_It_Task with attachment ID : 1752, autocreated on : March 04, 2022 07:05:23 
+[2022-03-04 19:08:01 : INFO] - 100 
+[2022-03-04 19:08:02 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/Neardermonkey-p2.png.The file was compressed from 161.98 KB to 62.55 KB saving 61.38 percent using WP-Optimize 
+[2022-03-04 19:08:02 : INFO] - Completed processing task with ID : 260, and type 'smush' 
+[2022-03-04 19:08:02 : INFO] - Processing task with ID : 261, and type 'smush' 
+[2022-03-04 19:08:02 : INFO] - Re_Smush_It_Task with attachment ID : 1753, autocreated on : March 04, 2022 07:05:25 
+[2022-03-04 19:08:02 : INFO] - 100 
+[2022-03-04 19:08:05 : INFO] - Backing up the original image - 2022/03/Soldier-p1-updraft-pre-smush-original.png 
+[2022-03-04 19:08:05 : INFO] - Re_Smush_It_Task with attachment ID : 1753, autocreated on : March 04, 2022 07:05:25 
+[2022-03-04 19:08:05 : INFO] - 100 
+[2022-03-04 19:08:06 : INFO] - Re_Smush_It_Task with attachment ID : 1753, autocreated on : March 04, 2022 07:05:25 
+[2022-03-04 19:08:06 : INFO] - 100 
+[2022-03-04 19:08:08 : INFO] - Re_Smush_It_Task with attachment ID : 1753, autocreated on : March 04, 2022 07:05:25 
+[2022-03-04 19:08:08 : INFO] - 100 
+[2022-03-04 19:08:10 : INFO] - Re_Smush_It_Task with attachment ID : 1753, autocreated on : March 04, 2022 07:05:25 
+[2022-03-04 19:08:10 : INFO] - 100 
+[2022-03-04 19:08:11 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/Soldier-p1.png.The file was compressed from 194.63 KB to 49.65 KB saving 74.49 percent using WP-Optimize 
+[2022-03-04 19:08:11 : INFO] - Completed processing task with ID : 261, and type 'smush' 
+[2022-03-04 19:08:11 : INFO] - Processing task with ID : 262, and type 'smush' 
+[2022-03-04 19:08:11 : INFO] - Re_Smush_It_Task with attachment ID : 1754, autocreated on : March 04, 2022 07:05:28 
+[2022-03-04 19:08:11 : INFO] - 100 
+[2022-03-04 19:08:15 : INFO] - Backing up the original image - 2022/03/Soldier-p2-updraft-pre-smush-original.png 
+[2022-03-04 19:08:15 : INFO] - Re_Smush_It_Task with attachment ID : 1754, autocreated on : March 04, 2022 07:05:28 
+[2022-03-04 19:08:15 : INFO] - 100 
+[2022-03-04 19:08:16 : INFO] - Re_Smush_It_Task with attachment ID : 1754, autocreated on : March 04, 2022 07:05:28 
+[2022-03-04 19:08:16 : INFO] - 100 
+[2022-03-04 19:08:18 : INFO] - Re_Smush_It_Task with attachment ID : 1754, autocreated on : March 04, 2022 07:05:28 
+[2022-03-04 19:08:18 : INFO] - 100 
+[2022-03-04 19:08:20 : INFO] - Re_Smush_It_Task with attachment ID : 1754, autocreated on : March 04, 2022 07:05:28 
+[2022-03-04 19:08:20 : INFO] - 100 
+[2022-03-04 19:08:22 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/Soldier-p2.png.The file was compressed from 235.48 KB to 61.11 KB saving 74.05 percent using WP-Optimize 
+[2022-03-04 19:08:22 : INFO] - Completed processing task with ID : 262, and type 'smush' 
+[2022-03-04 19:08:22 : INFO] - Processing task with ID : 263, and type 'smush' 
+[2022-03-04 19:08:22 : INFO] - Re_Smush_It_Task with attachment ID : 1755, autocreated on : March 04, 2022 07:05:30 
+[2022-03-04 19:08:22 : INFO] - 100 
+[2022-03-04 19:08:25 : INFO] - Backing up the original image - 2022/03/Collector-p1-updraft-pre-smush-original.png 
+[2022-03-04 19:08:25 : INFO] - Re_Smush_It_Task with attachment ID : 1755, autocreated on : March 04, 2022 07:05:30 
+[2022-03-04 19:08:25 : INFO] - 100 
+[2022-03-04 19:08:27 : INFO] - Re_Smush_It_Task with attachment ID : 1755, autocreated on : March 04, 2022 07:05:30 
+[2022-03-04 19:08:27 : INFO] - 100 
+[2022-03-04 19:08:28 : INFO] - Re_Smush_It_Task with attachment ID : 1755, autocreated on : March 04, 2022 07:05:30 
+[2022-03-04 19:08:28 : INFO] - 100 
+[2022-03-04 19:08:31 : INFO] - Re_Smush_It_Task with attachment ID : 1755, autocreated on : March 04, 2022 07:05:30 
+[2022-03-04 19:08:31 : INFO] - 100 
+[2022-03-04 19:08:32 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/Collector-p1.png.The file was compressed from 181.59 KB to 56.54 KB saving 68.86 percent using WP-Optimize 
+[2022-03-04 19:08:32 : INFO] - Completed processing task with ID : 263, and type 'smush' 
+[2022-03-04 19:08:32 : INFO] - Processing task with ID : 264, and type 'smush' 
+[2022-03-04 19:08:32 : INFO] - Re_Smush_It_Task with attachment ID : 1756, autocreated on : March 04, 2022 07:05:33 
+[2022-03-04 19:08:32 : INFO] - 100 
+[2022-03-04 19:08:35 : INFO] - Backing up the original image - 2022/03/Collector-p2-updraft-pre-smush-original.png 
+[2022-03-04 19:08:35 : INFO] - Re_Smush_It_Task with attachment ID : 1756, autocreated on : March 04, 2022 07:05:33 
+[2022-03-04 19:08:35 : INFO] - 100 
+[2022-03-04 19:08:37 : INFO] - Re_Smush_It_Task with attachment ID : 1756, autocreated on : March 04, 2022 07:05:33 
+[2022-03-04 19:08:37 : INFO] - 100 
+[2022-03-04 19:08:38 : INFO] - Re_Smush_It_Task with attachment ID : 1756, autocreated on : March 04, 2022 07:05:33 
+[2022-03-04 19:08:38 : INFO] - 100 
+[2022-03-04 19:08:41 : INFO] - Re_Smush_It_Task with attachment ID : 1756, autocreated on : March 04, 2022 07:05:33 
+[2022-03-04 19:08:41 : INFO] - 100 
+[2022-03-04 19:08:43 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/Collector-p2.png.The file was compressed from 198.55 KB to 61.90 KB saving 68.82 percent using WP-Optimize 
+[2022-03-04 19:08:43 : INFO] - Completed processing task with ID : 264, and type 'smush' 
+[2022-03-04 19:08:43 : INFO] - Processing task with ID : 265, and type 'smush' 
+[2022-03-04 19:08:43 : INFO] - Re_Smush_It_Task with attachment ID : 1757, autocreated on : March 04, 2022 07:05:35 
+[2022-03-04 19:08:43 : INFO] - 100 
+[2022-03-04 19:08:46 : INFO] - Backing up the original image - 2022/03/Cyborg-p1-updraft-pre-smush-original.png 
+[2022-03-04 19:08:46 : INFO] - Re_Smush_It_Task with attachment ID : 1757, autocreated on : March 04, 2022 07:05:35 
+[2022-03-04 19:08:46 : INFO] - 100 
+[2022-03-04 19:08:47 : INFO] - Re_Smush_It_Task with attachment ID : 1757, autocreated on : March 04, 2022 07:05:35 
+[2022-03-04 19:08:47 : INFO] - 100 
+[2022-03-04 19:08:49 : INFO] - Re_Smush_It_Task with attachment ID : 1757, autocreated on : March 04, 2022 07:05:35 
+[2022-03-04 19:08:49 : INFO] - 100 
+[2022-03-04 19:08:52 : INFO] - Re_Smush_It_Task with attachment ID : 1757, autocreated on : March 04, 2022 07:05:35 
+[2022-03-04 19:08:52 : INFO] - 100 
+[2022-03-04 19:08:53 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/Cyborg-p1.png.The file was compressed from 169.25 KB to 45.33 KB saving 73.22 percent using WP-Optimize 
+[2022-03-04 19:08:53 : INFO] - Completed processing task with ID : 265, and type 'smush' 
+[2022-03-04 19:08:54 : INFO] - Processing task with ID : 266, and type 'smush' 
+[2022-03-04 19:08:54 : INFO] - Re_Smush_It_Task with attachment ID : 1758, autocreated on : March 04, 2022 07:05:37 
+[2022-03-04 19:08:54 : INFO] - 100 
+[2022-03-04 19:08:57 : INFO] - Backing up the original image - 2022/03/Cyborg-p2-updraft-pre-smush-original.png 
+[2022-03-04 19:08:57 : INFO] - Re_Smush_It_Task with attachment ID : 1758, autocreated on : March 04, 2022 07:05:37 
+[2022-03-04 19:08:57 : INFO] - 100 
+[2022-03-04 19:08:59 : INFO] - Re_Smush_It_Task with attachment ID : 1758, autocreated on : March 04, 2022 07:05:37 
+[2022-03-04 19:08:59 : INFO] - 100 
+[2022-03-04 19:09:01 : INFO] - Re_Smush_It_Task with attachment ID : 1758, autocreated on : March 04, 2022 07:05:37 
+[2022-03-04 19:09:01 : INFO] - 100 
+[2022-03-04 19:09:04 : INFO] - Re_Smush_It_Task with attachment ID : 1758, autocreated on : March 04, 2022 07:05:37 
+[2022-03-04 19:09:04 : INFO] - 100 
+[2022-03-04 19:09:06 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/Cyborg-p2.png.The file was compressed from 212.19 KB to 57.60 KB saving 72.85 percent using WP-Optimize 
+[2022-03-04 19:09:06 : INFO] - Completed processing task with ID : 266, and type 'smush' 
+[2022-03-04 19:09:06 : INFO] - Processing task with ID : 267, and type 'smush' 
+[2022-03-04 19:09:06 : INFO] - Re_Smush_It_Task with attachment ID : 1759, autocreated on : March 04, 2022 07:05:39 
+[2022-03-04 19:09:06 : INFO] - 100 
+[2022-03-04 19:09:09 : INFO] - Backing up the original image - 2022/03/Estagiario-p1-updraft-pre-smush-original.png 
+[2022-03-04 19:09:09 : INFO] - Re_Smush_It_Task with attachment ID : 1759, autocreated on : March 04, 2022 07:05:39 
+[2022-03-04 19:09:09 : INFO] - 100 
+[2022-03-04 19:09:11 : INFO] - Re_Smush_It_Task with attachment ID : 1759, autocreated on : March 04, 2022 07:05:39 
+[2022-03-04 19:09:11 : INFO] - 100 
+[2022-03-04 19:09:12 : INFO] - Re_Smush_It_Task with attachment ID : 1759, autocreated on : March 04, 2022 07:05:39 
+[2022-03-04 19:09:12 : INFO] - 100 
+[2022-03-04 19:09:14 : INFO] - Re_Smush_It_Task with attachment ID : 1759, autocreated on : March 04, 2022 07:05:39 
+[2022-03-04 19:09:14 : INFO] - 100 
+[2022-03-04 19:09:15 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/Estagiario-p1.png.The file was compressed from 134.37 KB to 38.08 KB saving 71.66 percent using WP-Optimize 
+[2022-03-04 19:09:15 : INFO] - Completed processing task with ID : 267, and type 'smush' 
+[2022-03-04 19:09:15 : INFO] - Processing task with ID : 268, and type 'smush' 
+[2022-03-04 19:09:15 : INFO] - Re_Smush_It_Task with attachment ID : 1760, autocreated on : March 04, 2022 07:05:42 
+[2022-03-04 19:09:15 : INFO] - 100 
+[2022-03-04 19:09:18 : INFO] - Backing up the original image - 2022/03/Estagiario-p2-updraft-pre-smush-original.png 
+[2022-03-04 19:09:18 : INFO] - Re_Smush_It_Task with attachment ID : 1760, autocreated on : March 04, 2022 07:05:42 
+[2022-03-04 19:09:18 : INFO] - 100 
+[2022-03-04 19:09:19 : INFO] - Re_Smush_It_Task with attachment ID : 1760, autocreated on : March 04, 2022 07:05:42 
+[2022-03-04 19:09:19 : INFO] - 100 
+[2022-03-04 19:09:21 : INFO] - Re_Smush_It_Task with attachment ID : 1760, autocreated on : March 04, 2022 07:05:42 
+[2022-03-04 19:09:21 : INFO] - 100 
+[2022-03-04 19:09:23 : INFO] - Re_Smush_It_Task with attachment ID : 1760, autocreated on : March 04, 2022 07:05:42 
+[2022-03-04 19:09:23 : INFO] - 100 
+[2022-03-04 19:09:25 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/Estagiario-p2.png.The file was compressed from 161.73 KB to 45.45 KB saving 71.9 percent using WP-Optimize 
+[2022-03-04 19:09:25 : INFO] - Completed processing task with ID : 268, and type 'smush' 
+[2022-03-04 19:09:25 : INFO] - Processing task with ID : 269, and type 'smush' 
+[2022-03-04 19:09:25 : INFO] - Re_Smush_It_Task with attachment ID : 1761, autocreated on : March 04, 2022 07:05:46 
+[2022-03-04 19:09:25 : INFO] - 100 
+[2022-03-04 19:09:28 : INFO] - Backing up the original image - 2022/03/Farmer-p1-updraft-pre-smush-original.png 
+[2022-03-04 19:09:28 : INFO] - Re_Smush_It_Task with attachment ID : 1761, autocreated on : March 04, 2022 07:05:46 
+[2022-03-04 19:09:28 : INFO] - 100 
+[2022-03-04 19:09:29 : INFO] - Re_Smush_It_Task with attachment ID : 1761, autocreated on : March 04, 2022 07:05:46 
+[2022-03-04 19:09:29 : INFO] - 100 
+[2022-03-04 19:09:30 : INFO] - Re_Smush_It_Task with attachment ID : 1761, autocreated on : March 04, 2022 07:05:46 
+[2022-03-04 19:09:30 : INFO] - 100 
+[2022-03-04 19:09:33 : INFO] - Re_Smush_It_Task with attachment ID : 1761, autocreated on : March 04, 2022 07:05:46 
+[2022-03-04 19:09:33 : INFO] - 100 
+[2022-03-04 19:09:34 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/Farmer-p1.png.The file was compressed from 165.11 KB to 54.82 KB saving 66.8 percent using WP-Optimize 
+[2022-03-04 19:09:34 : INFO] - Completed processing task with ID : 269, and type 'smush' 
+[2022-03-04 19:09:34 : INFO] - Processing task with ID : 270, and type 'smush' 
+[2022-03-04 19:09:34 : INFO] - Re_Smush_It_Task with attachment ID : 1762, autocreated on : March 04, 2022 07:05:50 
+[2022-03-04 19:09:34 : INFO] - 100 
+[2022-03-04 19:09:37 : INFO] - Backing up the original image - 2022/03/Farmer-p2-updraft-pre-smush-original.png 
+[2022-03-04 19:09:37 : INFO] - Re_Smush_It_Task with attachment ID : 1762, autocreated on : March 04, 2022 07:05:50 
+[2022-03-04 19:09:37 : INFO] - 100 
+[2022-03-04 19:09:39 : INFO] - Re_Smush_It_Task with attachment ID : 1762, autocreated on : March 04, 2022 07:05:50 
+[2022-03-04 19:09:39 : INFO] - 100 
+[2022-03-04 19:09:41 : INFO] - Re_Smush_It_Task with attachment ID : 1762, autocreated on : March 04, 2022 07:05:50 
+[2022-03-04 19:09:41 : INFO] - 100 
+[2022-03-04 19:09:44 : INFO] - Re_Smush_It_Task with attachment ID : 1762, autocreated on : March 04, 2022 07:05:50 
+[2022-03-04 19:09:44 : INFO] - 100 
+[2022-03-04 19:09:45 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/Farmer-p2.png.The file was compressed from 206.70 KB to 71.82 KB saving 65.25 percent using WP-Optimize 
+[2022-03-04 19:09:45 : INFO] - Completed processing task with ID : 270, and type 'smush' 
+[2022-03-04 19:09:45 : INFO] - Processing task with ID : 271, and type 'smush' 
+[2022-03-04 19:09:45 : INFO] - Re_Smush_It_Task with attachment ID : 1763, autocreated on : March 04, 2022 07:05:53 
+[2022-03-04 19:09:45 : INFO] - 100 
+[2022-03-04 19:09:49 : INFO] - Backing up the original image - 2022/03/Firebender-p1-updraft-pre-smush-original.png 
+[2022-03-04 19:09:49 : INFO] - Re_Smush_It_Task with attachment ID : 1763, autocreated on : March 04, 2022 07:05:53 
+[2022-03-04 19:09:49 : INFO] - 100 
+[2022-03-04 19:09:51 : INFO] - Re_Smush_It_Task with attachment ID : 1763, autocreated on : March 04, 2022 07:05:53 
+[2022-03-04 19:09:51 : INFO] - 100 
+[2022-03-04 19:09:52 : INFO] - Re_Smush_It_Task with attachment ID : 1763, autocreated on : March 04, 2022 07:05:53 
+[2022-03-04 19:09:52 : INFO] - 100 
+[2022-03-04 19:09:56 : INFO] - Re_Smush_It_Task with attachment ID : 1763, autocreated on : March 04, 2022 07:05:53 
+[2022-03-04 19:09:56 : INFO] - 100 
+[2022-03-04 19:09:57 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/Firebender-p1.png.The file was compressed from 228.36 KB to 72.76 KB saving 68.14 percent using WP-Optimize 
+[2022-03-04 19:09:57 : INFO] - Completed processing task with ID : 271, and type 'smush' 
+[2022-03-04 19:09:57 : INFO] - Processing task with ID : 272, and type 'smush' 
+[2022-03-04 19:09:57 : INFO] - Re_Smush_It_Task with attachment ID : 1764, autocreated on : March 04, 2022 07:05:55 
+[2022-03-04 19:09:57 : INFO] - 100 
+[2022-03-04 19:10:02 : INFO] - Backing up the original image - 2022/03/Firebender-p2-updraft-pre-smush-original.png 
+[2022-03-04 19:10:02 : INFO] - Re_Smush_It_Task with attachment ID : 1764, autocreated on : March 04, 2022 07:05:55 
+[2022-03-04 19:10:02 : INFO] - 100 
+[2022-03-04 19:10:04 : INFO] - Re_Smush_It_Task with attachment ID : 1764, autocreated on : March 04, 2022 07:05:55 
+[2022-03-04 19:10:04 : INFO] - 100 
+[2022-03-04 19:10:05 : INFO] - Re_Smush_It_Task with attachment ID : 1764, autocreated on : March 04, 2022 07:05:55 
+[2022-03-04 19:10:05 : INFO] - 100 
+[2022-03-04 19:10:09 : INFO] - Re_Smush_It_Task with attachment ID : 1764, autocreated on : March 04, 2022 07:05:55 
+[2022-03-04 19:10:09 : INFO] - 100 
+[2022-03-04 19:10:10 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/Firebender-p2.png.The file was compressed from 252.63 KB to 80.53 KB saving 68.12 percent using WP-Optimize 
+[2022-03-04 19:10:10 : INFO] - Completed processing task with ID : 272, and type 'smush' 
+[2022-03-04 19:10:10 : INFO] - Processing task with ID : 273, and type 'smush' 
+[2022-03-04 19:10:10 : INFO] - Re_Smush_It_Task with attachment ID : 1765, autocreated on : March 04, 2022 07:05:58 
+[2022-03-04 19:10:10 : INFO] - 100 
+[2022-03-04 19:10:13 : INFO] - Backing up the original image - 2022/03/Monkey-from-Future-p1-updraft-pre-smush-original.png 
+[2022-03-04 19:10:13 : INFO] - Re_Smush_It_Task with attachment ID : 1765, autocreated on : March 04, 2022 07:05:58 
+[2022-03-04 19:10:13 : INFO] - 100 
+[2022-03-04 19:10:14 : INFO] - Re_Smush_It_Task with attachment ID : 1765, autocreated on : March 04, 2022 07:05:58 
+[2022-03-04 19:10:14 : INFO] - 100 
+[2022-03-04 19:10:16 : INFO] - Re_Smush_It_Task with attachment ID : 1765, autocreated on : March 04, 2022 07:05:58 
+[2022-03-04 19:10:16 : INFO] - 100 
+[2022-03-04 19:10:18 : INFO] - Re_Smush_It_Task with attachment ID : 1765, autocreated on : March 04, 2022 07:05:58 
+[2022-03-04 19:10:18 : INFO] - 100 
+[2022-03-04 19:10:20 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/Monkey-from-Future-p1.png.The file was compressed from 185.73 KB to 45.51 KB saving 75.49 percent using WP-Optimize 
+[2022-03-04 19:10:20 : INFO] - Completed processing task with ID : 273, and type 'smush' 
+[2022-03-04 19:10:20 : INFO] - Processing task with ID : 274, and type 'smush' 
+[2022-03-04 19:10:20 : INFO] - Re_Smush_It_Task with attachment ID : 1766, autocreated on : March 04, 2022 07:06:00 
+[2022-03-04 19:10:20 : INFO] - 100 
+[2022-03-04 19:10:23 : INFO] - Backing up the original image - 2022/03/Monkey-from-Future-p2-updraft-pre-smush-original.png 
+[2022-03-04 19:10:23 : INFO] - Re_Smush_It_Task with attachment ID : 1766, autocreated on : March 04, 2022 07:06:00 
+[2022-03-04 19:10:23 : INFO] - 100 
+[2022-03-04 19:10:25 : INFO] - Re_Smush_It_Task with attachment ID : 1766, autocreated on : March 04, 2022 07:06:00 
+[2022-03-04 19:10:25 : INFO] - 100 
+[2022-03-04 19:10:27 : INFO] - Re_Smush_It_Task with attachment ID : 1766, autocreated on : March 04, 2022 07:06:00 
+[2022-03-04 19:10:27 : INFO] - 100 
+[2022-03-04 19:10:29 : INFO] - Re_Smush_It_Task with attachment ID : 1766, autocreated on : March 04, 2022 07:06:00 
+[2022-03-04 19:10:29 : INFO] - 100 
+[2022-03-04 19:10:30 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/Monkey-from-Future-p2.png.The file was compressed from 208.56 KB to 51.35 KB saving 75.38 percent using WP-Optimize 
+[2022-03-04 19:10:30 : INFO] - Completed processing task with ID : 274, and type 'smush' 
+[2022-03-04 19:10:30 : INFO] - Processing task with ID : 275, and type 'smush' 
+[2022-03-04 19:10:30 : INFO] - Re_Smush_It_Task with attachment ID : 1767, autocreated on : March 04, 2022 07:06:03 
+[2022-03-04 19:10:30 : INFO] - 100 
+[2022-03-04 19:10:33 : INFO] - Backing up the original image - 2022/03/Neandermonkey-Hunter-p1-updraft-pre-smush-original.png 
+[2022-03-04 19:10:33 : INFO] - Re_Smush_It_Task with attachment ID : 1767, autocreated on : March 04, 2022 07:06:03 
+[2022-03-04 19:10:33 : INFO] - 100 
+[2022-03-04 19:10:35 : INFO] - Re_Smush_It_Task with attachment ID : 1767, autocreated on : March 04, 2022 07:06:03 
+[2022-03-04 19:10:35 : INFO] - 100 
+[2022-03-04 19:10:36 : INFO] - Re_Smush_It_Task with attachment ID : 1767, autocreated on : March 04, 2022 07:06:03 
+[2022-03-04 19:10:36 : INFO] - 100 
+[2022-03-04 19:10:38 : INFO] - Re_Smush_It_Task with attachment ID : 1767, autocreated on : March 04, 2022 07:06:03 
+[2022-03-04 19:10:38 : INFO] - 100 
+[2022-03-04 19:10:40 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/Neandermonkey-Hunter-p1.png.The file was compressed from 173.76 KB to 56.84 KB saving 67.28 percent using WP-Optimize 
+[2022-03-04 19:10:40 : INFO] - Completed processing task with ID : 275, and type 'smush' 
+[2022-03-04 19:10:40 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-03-04 19:10:40 : INFO] - Successfully processed the queue (smush). 20 tasks were processed out of 20. 
+[2022-03-04 19:10:40 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-03-04 19:10:40 : INFO] - Cleaning up tasks of type (smush). A total of 20 tasks will be deleted. 
+[2022-03-04 19:17:06 : INFO] - Re_Smush_It_Task with attachment ID : 1768, autocreated on : March 04, 2022 07:17:06 
+[2022-03-04 19:17:14 : INFO] - 
+ 
+[2022-03-04 19:17:14 : INFO] - Header for logs at time:  Fri, 04 Mar 2022 19:17:14 +0000 on https://newcryptomonkeyslp.local 
+[2022-03-04 19:17:14 : INFO] - WP: 5.9.1 
+[2022-03-04 19:17:14 : INFO] - PHP: 7.4.1 (cgi-fcgi, Windows NT LAPTOP-C6PJKMM6 10.0 build 22000 (Windows 10) AMD64) 
+[2022-03-04 19:17:14 : INFO] - MySQL: 8.0.16 
+[2022-03-04 19:17:14 : INFO] - WPLANG: pt_BR 
+[2022-03-04 19:17:14 : INFO] - Server: nginx/1.16.0 
+[2022-03-04 19:17:14 : INFO] - Outbound connections: N 
+[2022-03-04 19:17:14 : INFO] - safe_mode: 0 
+[2022-03-04 19:17:14 : INFO] - max_execution_time: 86400 
+[2022-03-04 19:17:14 : INFO] - memory_limit: 30240M (used: 20.3M | 2M) 
+[2022-03-04 19:17:14 : INFO] - multisite: N 
+[2022-03-04 19:17:14 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2022-03-04 19:17:14 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-03-04 19:17:14 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-03-04 19:17:14 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-03-04 19:17:14 : INFO] - Processing task with ID : 276, and type 'smush' 
+[2022-03-04 19:17:14 : INFO] - Re_Smush_It_Task with attachment ID : 1768, autocreated on : March 04, 2022 07:17:06 
+[2022-03-04 19:17:14 : INFO] - 100 
+[2022-03-04 19:17:16 : INFO] - Backing up the original image - 2022/03/bd-dark-fade-updraft-pre-smush-original.png 
+[2022-03-04 19:17:16 : INFO] - Re_Smush_It_Task with attachment ID : 1768, autocreated on : March 04, 2022 07:17:06 
+[2022-03-04 19:17:16 : INFO] - 100 
+[2022-03-04 19:17:18 : INFO] - Re_Smush_It_Task with attachment ID : 1768, autocreated on : March 04, 2022 07:17:06 
+[2022-03-04 19:17:18 : INFO] - 100 
+[2022-03-04 19:17:19 : INFO] - Re_Smush_It_Task with attachment ID : 1768, autocreated on : March 04, 2022 07:17:06 
+[2022-03-04 19:17:19 : INFO] - 100 
+[2022-03-04 19:17:20 : INFO] - Re_Smush_It_Task with attachment ID : 1768, autocreated on : March 04, 2022 07:17:06 
+[2022-03-04 19:17:20 : INFO] - 100 
+[2022-03-04 19:17:21 : INFO] - Re_Smush_It_Task with attachment ID : 1768, autocreated on : March 04, 2022 07:17:06 
+[2022-03-04 19:17:21 : INFO] - 100 
+[2022-03-04 19:17:22 : INFO] - Re_Smush_It_Task with attachment ID : 1768, autocreated on : March 04, 2022 07:17:06 
+[2022-03-04 19:17:22 : INFO] - 100 
+[2022-03-04 19:17:24 : INFO] - Re_Smush_It_Task with attachment ID : 1768, autocreated on : March 04, 2022 07:17:06 
+[2022-03-04 19:17:24 : INFO] - 100 
+[2022-03-04 19:17:25 : INFO] - Re_Smush_It_Task with attachment ID : 1768, autocreated on : March 04, 2022 07:17:06 
+[2022-03-04 19:17:25 : INFO] - 100 
+[2022-03-04 19:17:26 : INFO] - Successfully optimized the image - C:\Users\Joao\Local Sites\newcryptomonkeyslp\app\public/wp-content/uploads/2022/03/bd-dark-fade.png.The file was compressed from 10.53 KB to 4.00 KB saving 61.98 percent using WP-Optimize 
+[2022-03-04 19:17:26 : INFO] - Completed processing task with ID : 276, and type 'smush' 
+[2022-03-04 19:17:26 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-03-04 19:17:26 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-03-04 19:17:26 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-03-04 19:17:26 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-03-04 19:27:17 : INFO] - 
+ 
+[2022-03-04 19:27:17 : INFO] - Header for logs at time:  Fri, 04 Mar 2022 19:27:17 +0000 on https://newcryptomonkeyslp.local 
+[2022-03-04 19:27:17 : INFO] - WP: 5.9.1 
+[2022-03-04 19:27:17 : INFO] - PHP: 7.4.1 (cgi-fcgi, Windows NT LAPTOP-C6PJKMM6 10.0 build 22000 (Windows 10) AMD64) 
+[2022-03-04 19:27:17 : INFO] - MySQL: 8.0.16 
+[2022-03-04 19:27:17 : INFO] - WPLANG: pt_BR 
+[2022-03-04 19:27:17 : INFO] - Server: nginx/1.16.0 
+[2022-03-04 19:27:17 : INFO] - Outbound connections: N 
+[2022-03-04 19:27:17 : INFO] - safe_mode: 0 
+[2022-03-04 19:27:17 : INFO] - max_execution_time: 86400 
+[2022-03-04 19:27:17 : INFO] - memory_limit: 30240M (used: 20.3M | 2M) 
+[2022-03-04 19:27:17 : INFO] - multisite: N 
+[2022-03-04 19:27:17 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2022-03-04 19:27:17 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
